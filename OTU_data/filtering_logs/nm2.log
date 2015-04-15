@@ -1,0 +1,47 @@
+## ##
+## START JOB 5013114 - nm2
+## Wed Apr  8 17:41:25 CEST 2015
+## COMMAND: for file in *.sam; do python ~/repos/bu/scripts/OTU_reads_mapping.py --nm-threshold 2 $file filtered_nm2/$(echo $file | cut -d"." -f1)_filtered.sam; done
+## OMP_NUM_THREADS: 1
+## LOGFILE: /home/alneberg/jobs.log
+Found 646 mapping reads, where 157 had an insufficient best hit and 271 had more than one alignment that passed the threshold.
+Found 7227 mapping reads, where 1249 had an insufficient best hit and 3684 had more than one alignment that passed the threshold.
+Found 777 mapping reads, where 172 had an insufficient best hit and 282 had more than one alignment that passed the threshold.
+Found 1062 mapping reads, where 181 had an insufficient best hit and 457 had more than one alignment that passed the threshold.
+Found 1681 mapping reads, where 224 had an insufficient best hit and 744 had more than one alignment that passed the threshold.
+Found 6271 mapping reads, where 667 had an insufficient best hit and 3141 had more than one alignment that passed the threshold.
+Found 490 mapping reads, where 73 had an insufficient best hit and 228 had more than one alignment that passed the threshold.
+Found 5158 mapping reads, where 531 had an insufficient best hit and 2213 had more than one alignment that passed the threshold.
+Found 1345 mapping reads, where 129 had an insufficient best hit and 738 had more than one alignment that passed the threshold.
+Found 990 mapping reads, where 261 had an insufficient best hit and 405 had more than one alignment that passed the threshold.
+Found 1821 mapping reads, where 264 had an insufficient best hit and 980 had more than one alignment that passed the threshold.
+Found 367 mapping reads, where 90 had an insufficient best hit and 153 had more than one alignment that passed the threshold.
+Found 2047 mapping reads, where 334 had an insufficient best hit and 1047 had more than one alignment that passed the threshold.
+Found 4857 mapping reads, where 611 had an insufficient best hit and 2473 had more than one alignment that passed the threshold.
+Found 1385 mapping reads, where 205 had an insufficient best hit and 638 had more than one alignment that passed the threshold.
+Found 5355 mapping reads, where 639 had an insufficient best hit and 2526 had more than one alignment that passed the threshold.
+Found 1048 mapping reads, where 165 had an insufficient best hit and 423 had more than one alignment that passed the threshold.
+Found 558 mapping reads, where 70 had an insufficient best hit and 238 had more than one alignment that passed the threshold.
+Found 1503 mapping reads, where 282 had an insufficient best hit and 670 had more than one alignment that passed the threshold.
+Found 832 mapping reads, where 188 had an insufficient best hit and 353 had more than one alignment that passed the threshold.
+Found 2443 mapping reads, where 723 had an insufficient best hit and 854 had more than one alignment that passed the threshold.
+Found 3133 mapping reads, where 356 had an insufficient best hit and 1342 had more than one alignment that passed the threshold.
+Found 4770 mapping reads, where 673 had an insufficient best hit and 1993 had more than one alignment that passed the threshold.
+Found 2128 mapping reads, where 218 had an insufficient best hit and 905 had more than one alignment that passed the threshold.
+Found 1012 mapping reads, where 110 had an insufficient best hit and 421 had more than one alignment that passed the threshold.
+Found 4299 mapping reads, where 700 had an insufficient best hit and 1784 had more than one alignment that passed the threshold.
+Found 7997 mapping reads, where 735 had an insufficient best hit and 3073 had more than one alignment that passed the threshold.
+Found 5627 mapping reads, where 1074 had an insufficient best hit and 2279 had more than one alignment that passed the threshold.
+Found 5351 mapping reads, where 791 had an insufficient best hit and 2273 had more than one alignment that passed the threshold.
+Found 1485 mapping reads, where 288 had an insufficient best hit and 620 had more than one alignment that passed the threshold.
+Found 4206 mapping reads, where 648 had an insufficient best hit and 1858 had more than one alignment that passed the threshold.
+Found 1896 mapping reads, where 250 had an insufficient best hit and 937 had more than one alignment that passed the threshold.
+Found 896 mapping reads, where 151 had an insufficient best hit and 344 had more than one alignment that passed the threshold.
+Found 3059 mapping reads, where 411 had an insufficient best hit and 1249 had more than one alignment that passed the threshold.
+Found 229 mapping reads, where 32 had an insufficient best hit and 102 had more than one alignment that passed the threshold.
+Found 2178 mapping reads, where 413 had an insufficient best hit and 1009 had more than one alignment that passed the threshold.
+Found 4509 mapping reads, where 733 had an insufficient best hit and 1933 had more than one alignment that passed the threshold.
+## Wed Apr  8 18:35:06 CEST 2015
+## Elapsed time: 00-00:53:41
+## FINISHED JOB 5013114 - nm2
+## ##
