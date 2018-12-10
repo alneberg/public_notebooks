@@ -1,0 +1,31 @@
+	kingdom	2nd_largest	signal	class	phylum	largest	order	otu	otu_order	otu_kingdom	otu_phylum	otu_class
+CLUSTER1	Bacteria	0.7693008513240287	1	Gammaproteobacteria	Proteobacteria	0.9021094720160053	Oceanospirillales	OTU_47	Oceanospirillales	Bacteria	Proteobacteria	Gammaproteobacteria
+CLUSTER10	Bacteria	0.984803799787433	-2	Alphaproteobacteria	Proteobacteria	0.9935171739992055	Rhodobacterales					
+CLUSTER11	Bacteria	0.7975004336549779	1	Flavobacteriia	Bacteriodetes	0.8232909600816166	Flavobacteriales	OTU_266	Flavobacteriales	Bacteria	Bacteroidetes	Flavobacteriia
+CLUSTER12	Bacteria	0.9479109376296344	-2	Sphingobacteriia	Bacteriodetes	0.9517280201762666	Sphingobacteriales					
+CLUSTER13	Archaea	0.8848400447985789	-2		Thaumarchaeota	0.8870918990736233						
+CLUSTER14	Bacteria	0.8106568299749091	1	Betaproteobacteria	Proteobacteria	0.8948559529985278	Methylophilales	OTU_144	Methylophilales	Bacteria	Proteobacteria	Betaproteobacteria
+CLUSTER15	Bacteria	0.8861925975105214	-2	Actinobacteria	Actinobacteria	0.8981909069170769	Actinomycetales					
+CLUSTER16	Bacteria	0.8398735071719967	2	Gammaproteobacteria	Proteobacteria	0.9702825760857229	Alteromonadales	OTU_51	Alteromonadales	Bacteria	Proteobacteria	Gammaproteobacteria
+CLUSTER17	Bacteria	0.9444899295023504	-2	Acidimicrobiia	Actinobacteria	0.9544031054783618	Acidimicrobiales					
+CLUSTER18	Bacteria	0.8771226754307992	-2	Flavobacteriia	Bacteriodetes	0.8848421326007493	Flavobacteriales					
+CLUSTER19	Bacteria	0.9618033338177568	-2	Acidimicrobiia	Actinobacteria	0.9730584499349302	Acidimicrobiales					
+CLUSTER2	Bacteria	0.8954650015087665	-2	Actinobacteria	Actinobacteria	0.8980477521276459	Actinomycetales					
+CLUSTER20	Bacteria	0.8243615970138951	-2	Alphaproteobacteria	Proteobacteria	0.8435117366634811	Rickettsiales					
+CLUSTER21	Bacteria	0.9240710859247098	2	Flavobacteriia	Bacteriodetes	0.9822023539375602	Flavobacteriales	OTU_88	Flavobacteriales	Bacteria	Bacteroidetes	Flavobacteriia
+CLUSTER22	Bacteria	0.8764650345210828	2	Flavobacteriia	Bacteriodetes	0.9692541456976007	Flavobacteriales	OTU_24	Flavobacteriales	Bacteria	Bacteroidetes	Flavobacteriia
+CLUSTER23	Bacteria	0.931133581705777	-2	Flavobacteriia	Bacteriodetes	0.9313742274167298	Flavobacteriales					
+CLUSTER24	Bacteria	0.9990138335894109	-2	Optitutae	Verrucomicrobia	0.9996839268152494	Opitutales					
+CLUSTER25	Bacteria	0.9684373128884141	-2	Actinobacteria	Actinobacteria	0.9832234894212188	Actinomycetales					
+CLUSTER26	Bacteria	0.9421491065505748	-2	Gammaproteobacteria	Proteobacteria	0.9451119171160584	Alteromonadales					
+CLUSTER27	Bacteria	0.9375391262362949	2	Acidimicrobiia	Actinobacteria	0.9776375614334095	Acidimicrobiales	OTU_6	Acidimicrobiales	Bacteria	Actinobacteria	Acidimicrobiia
+CLUSTER28	Bacteria	0.9366946839475633	2	Actinobacteria	Actinobacteria	0.9719210971583844	Actinomycetales	OTU_135	Actinomycetales	Bacteria	Actinobacteria	Actinobacteria
+CLUSTER29	Bacteria	0.8313600621442079	2	Flavobacteriia	Bacteriodetes	0.9176866887020225	Flavobacteriales	OTU_131	Flavobacteriales	Bacteria	Bacteroidetes	Flavobacteriia
+CLUSTER3	Bacteria	0.799434016274887	1	Gammaproteobacteria	Proteobacteria	0.9356398125953268	Oceanospirillales	OTU_43	Alteromonadales	Bacteria	Proteobacteria	Gammaproteobacteria
+CLUSTER30	Bacteria	0.7733554014019416	1	Synechococcophycideae	Cyanobacteria	0.9494277707605577	Synechococcales	OTU_3	Synechococcales	Bacteria	Cyanobacteria	Synechococcophycideae
+CLUSTER4	Bacteria	0.8298186565434815	2	Actinobacteria	Actinobacteria	0.9051073412743919	Actinomycetales	OTU_15	Actinomycetales	Bacteria	Actinobacteria	Actinobacteria
+CLUSTER5	Bacteria	0.7714274365621765	0	Alphaproteobacteria	Proteobacteria	0.7745642731554736	Rickettsiales					
+CLUSTER6	Bacteria	0.854905327378341	-2	Acidimicrobiia	Actinobacteria	0.8632248579959914	Acidimicrobiales					
+CLUSTER7	Bacteria	0.9313092017401751	-2	Flavobacteriia	Bacteriodetes	0.9388173192837151	Flavobacteriales					
+CLUSTER8	Bacteria	0.8500245476005022	2	Flavobacteriia	Bacteriodetes	0.9536521549673659	Flavobacteriales	OTU_17	Flavobacteriales	Bacteria	Bacteroidetes	Flavobacteriia
+CLUSTER9	Bacteria	0.8654806809904513	2	[Methylacidiphilae]	Verrucomicrobia	0.9752970354480118	Methylacidiphilales	OTU_371	Methylacidiphilales	Bacteria	Verrucomicrobia	[Methylacidiphilae]

@@ -1,0 +1,1046 @@
+9273123	milou	COMPLETED	mattiri	b2010008	'KDUPP_98_113'	2016-12-06T11:36:14	02:32:49	node_type_overbooked:mem512GB:mem128GB	16	2.3	16	m130	/sw/share/slurm/milou/uppmax_jobstats/m130/9273123
+9273118	milou	COMPLETED	mattiri	b2010008	'KDUPP_34_49'	2016-12-06T13:10:49	09:31:46	overbooked:62%,node_type_overbooked:mem512GB:mem128GB,cores_overbooked:16:10,mem_overbooked:504.7:1.6,core_mem_overbooked:315.4:1.6	16	1.6	16	m127	/sw/share/slurm/milou/uppmax_jobstats/m127/9273118
+9286425	milou	COMPLETED	mattiri	b2010008	'KDUPP_130'	2016-12-06T13:25:19	00:27:20	.	1	0.4	1	m48	/sw/share/slurm/milou/uppmax_jobstats/m48/9286425
+9273090	milou	TIMEOUT	mattiri	b2010008	'KDUPP_2_17'	2016-12-06T16:27:43	15:00:18	node_type_overbooked:mem512GB:mem128GB	16	3.2	16	m135	/sw/share/slurm/milou/uppmax_jobstats/m135/9273090
+9273117	milou	TIMEOUT	mattiri	b2010008	'KDUPP_18_33'	2016-12-06T18:23:23	15:00:25	node_type_overbooked:mem512GB:mem128GB	16	4.0	16	m124	/sw/share/slurm/milou/uppmax_jobstats/m124/9273117
+9273120	milou	COMPLETED	mattiri	b2010008	'KDUPP_50_65'	2016-12-06T18:37:17	12:58:09	overbooked:69%,node_type_overbooked:mem512GB:mem128GB,cores_overbooked:16:11,mem_overbooked:504.7:1.5,core_mem_overbooked:347:1.5	16	1.5	16	m134	/sw/share/slurm/milou/uppmax_jobstats/m134/9273120
+9273121	milou	TIMEOUT	mattiri	b2010008	'KDUPP_66_81'	2016-12-06T22:37:38	15:00:30	node_type_overbooked:mem512GB:mem128GB	16	2.3	16	m128	/sw/share/slurm/milou/uppmax_jobstats/m128/9273121
+9273122	milou	TIMEOUT	mattiri	b2010008	'KDUPP_82_97'	2016-12-06T22:49:35	15:00:28	node_type_overbooked:mem256GB:mem128GB	16	2.8	16	m139	/sw/share/slurm/milou/uppmax_jobstats/m139/9273122
+9273124	milou	TIMEOUT	mattiri	b2010008	'KDUPP_114_129'	2016-12-07T01:58:34	15:00:12	overbooked:75%,node_type_overbooked:mem512GB:mem128GB,cores_overbooked:16:12,mem_overbooked:504.7:2,core_mem_overbooked:378.5:2	16	2.0	16	m137	/sw/share/slurm/milou/uppmax_jobstats/m137/9273124
+9315878	milou	CANCELLED	connys	b2010008	'OSD1_dat_build'	.	00:00:00	not_run	0	.	.	.
+9355505	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-19T11:18:38	00:01:04	.	4	0.0	.	m204	.
+9355509	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-19T11:19:33	00:00:30	.	4	0.0	.	m11	.
+9355507	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-19T11:20:29	00:01:26	.	4	1.4	.	m11	.
+9355506	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-19T11:20:55	00:03:21	.	4	2.6	.	m58	.
+9355508	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-19T11:22:06	00:03:03	overbooked:50%,cores_overbooked:4:2,mem_overbooked:32:2.2,core_mem_overbooked:16:2.2	4	2.2	4	m11	/sw/share/slurm/milou/uppmax_jobstats/m11/9355508
+9355513	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T11:22:36	00:03:33	overbooked:25%,!!half_overbooked,cores_overbooked:4:1,mem_overbooked:32:2.3,core_mem_overbooked:8:2.3	4	2.3	4	m30	/sw/share/slurm/milou/uppmax_jobstats/m30/9355513
+9355510	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T11:23:39	00:04:36	overbooked:25%,!!half_overbooked,cores_overbooked:4:1,mem_overbooked:32:2.7,core_mem_overbooked:8:2.7	4	2.7	4	m11	/sw/share/slurm/milou/uppmax_jobstats/m11/9355510
+9355516	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T11:23:42	00:04:39	overbooked:25%,!!half_overbooked,cores_overbooked:4:1,mem_overbooked:32:2.7,core_mem_overbooked:8:2.7	4	2.7	4	m30	/sw/share/slurm/milou/uppmax_jobstats/m30/9355516
+9355512	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-19T11:25:16	00:06:13	overbooked:50%,cores_overbooked:4:2,mem_overbooked:32:3.4,core_mem_overbooked:16:3.4	4	3.4	4	m30	/sw/share/slurm/milou/uppmax_jobstats/m30/9355512
+9355515	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T11:25:36	00:06:33	overbooked:50%,cores_overbooked:4:2,mem_overbooked:32:3.1,core_mem_overbooked:16:3.1	4	3.1	4	m30	/sw/share/slurm/milou/uppmax_jobstats/m30/9355515
+9355511	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T11:25:46	00:06:43	overbooked:50%,cores_overbooked:4:2,mem_overbooked:32:3.1,core_mem_overbooked:16:3.1	4	3.1	4	m204	/sw/share/slurm/milou/uppmax_jobstats/m204/9355511
+9355517	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T11:28:43	00:07:09	overbooked:25%,!!half_overbooked,cores_overbooked:4:1,mem_overbooked:32:3.7,core_mem_overbooked:8:3.7	4	3.7	4	m11	/sw/share/slurm/milou/uppmax_jobstats/m11/9355517
+9355518	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-19T11:28:50	00:07:16	overbooked:25%,!!half_overbooked,cores_overbooked:4:1,mem_overbooked:32:3.8,core_mem_overbooked:8:3.8	4	3.8	4	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9355518
+9355519	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T11:30:04	00:08:30	overbooked:50%,cores_overbooked:4:2,mem_overbooked:32:4,core_mem_overbooked:16:4	4	4.0	4	m66	/sw/share/slurm/milou/uppmax_jobstats/m66/9355519
+9355543	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:33:43	00:02:07	.	2	0.0	.	m66	.
+9355537	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:33:43	00:02:07	.	2	0.0	.	m66	.
+9355553	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:33:50	00:02:14	.	2	0.0	.	m69	.
+9355527	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:41:37	00:02:07	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:2:0,mem_overbooked:16:0	2	0.0	2	m36	/sw/share/slurm/milou/uppmax_jobstats/m36/9355527
+9355528	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:41:37	00:02:07	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:2:0,mem_overbooked:16:0	2	0.0	2	m36	/sw/share/slurm/milou/uppmax_jobstats/m36/9355528
+9355520	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:44:08	00:04:38	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:1.3,core_mem_overbooked:8:1.3	2	1.3	2	m16	/sw/share/slurm/milou/uppmax_jobstats/m16/9355520
+9355531	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:44:58	00:05:28	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:1.6,core_mem_overbooked:8:1.6	2	1.6	2	m66	/sw/share/slurm/milou/uppmax_jobstats/m66/9355531
+9355533	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:45:42	00:02:06	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:2:0,mem_overbooked:16:0	2	0.0	2	m16	/sw/share/slurm/milou/uppmax_jobstats/m16/9355533
+9355532	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:45:42	00:02:06	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:0,core_mem_overbooked:8:0	2	0.0	2	m16	/sw/share/slurm/milou/uppmax_jobstats/m16/9355532
+9355535	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:45:43	00:02:07	.	2	0.0	.	m43	.
+9355541	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:45:51	00:02:15	.	2	1.9	.	m69	.
+9355546	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:48:13	00:04:37	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:1.7,core_mem_overbooked:8:1.7	2	1.7	2	m69	/sw/share/slurm/milou/uppmax_jobstats/m69/9355546
+9355558	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:49:41	00:02:05	.	2	0.0	.	m43	.
+9355559	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:49:41	00:02:05	.	2	0.0	.	m36	.
+9355560	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:49:41	00:02:05	.	2	0.0	.	m36	.
+9355552	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:49:46	00:02:10	.	2	0.0	.	m103	.
+9355550	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:49:46	00:02:10	.	2	0.0	.	m103	.
+9355557	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:49:46	00:02:10	.	2	0.0	.	m103	.
+9355556	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:49:46	00:02:10	.	2	0.0	.	m103	.
+9355562	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:50:11	00:02:35	.	2	2.3	.	m66	.
+9355540	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:51:38	00:02:23	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:2.3,core_mem_overbooked:8:2.3	2	2.3	2	m16	/sw/share/slurm/milou/uppmax_jobstats/m16/9355540
+9355525	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:51:53	00:02:07	.	2	0.0	.	m186	.
+9355538	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:51:53	00:02:07	.	2	0.0	.	m186	.
+9355524	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:51:53	00:02:07	.	2	0.0	.	m186	.
+9355548	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:51:53	00:02:07	.	2	0.0	.	m186	.
+9355554	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:51:53	00:02:07	.	2	0.0	.	m186	.
+9355539	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:53:15	00:03:29	.	2	4.0	.	m186	.
+9355522	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:55:11	00:05:25	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:3.7,core_mem_overbooked:8:3.7	2	3.7	2	m186	/sw/share/slurm/milou/uppmax_jobstats/m186/9355522
+9355529	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:57:42	00:02:06	.	2	0.0	.	m16	.
+9355547	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:57:46	00:02:10	.	2	0.0	.	m15	.
+9355536	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T11:57:46	00:02:10	.	2	0.0	.	m15	.
+9355544	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:01:41	00:02:05	.	2	0.0	.	m186	.
+9355542	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:01:41	00:02:05	.	2	0.0	.	m186	.
+9355551	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:01:46	00:02:10	.	2	0.0	2	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9355551
+9355526	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:03:20	00:03:44	.	2	4.9	.	m186	.
+9355523	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:05:36	00:06:00	overbooked:50%,cores_overbooked:2:1	2	4.5	2	m186	/sw/share/slurm/milou/uppmax_jobstats/m186/9355523
+9355530	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:06:58	00:27:28	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:2.1,core_mem_overbooked:8:2.1	2	2.1	2	m66	/sw/share/slurm/milou/uppmax_jobstats/m66/9355530
+9355521	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:07:53	00:28:23	.	2	2.2	2	m36	/sw/share/slurm/milou/uppmax_jobstats/m36/9355521
+9355534	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:10:15	00:26:39	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:1.8,core_mem_overbooked:8:1.8	2	1.8	2	m110	/sw/share/slurm/milou/uppmax_jobstats/m110/9355534
+9355555	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:12:00	00:02:08	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:0,core_mem_overbooked:8:0	2	0.0	2	m50	/sw/share/slurm/milou/uppmax_jobstats/m50/9355555
+9355561	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:15:16	00:25:30	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:3.8,core_mem_overbooked:8:3.8	2	3.8	2	m186	/sw/share/slurm/milou/uppmax_jobstats/m186/9355561
+9355549	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-19T12:24:39	00:25:03	.	2	4.5	2	m66	/sw/share/slurm/milou/uppmax_jobstats/m66/9355549
+9355514	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T14:20:46	03:33:14	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m149	/sw/share/slurm/milou/uppmax_jobstats/m149/9355514
+9355545	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-19T14:24:25	00:00:42	.	1	0.5	.	m11	.
+9358472	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-19T16:01:31	00:03:40	.	4	0.2	.	m155	.
+9358449	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T16:03:51	00:18:00	overbooked:50%,cores_overbooked:4:2,mem_overbooked:32:2.4,core_mem_overbooked:16:2.4	4	2.4	4	m57	/sw/share/slurm/milou/uppmax_jobstats/m57/9358449
+9358464	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T16:05:42	00:19:51	overbooked:75%,cores_overbooked:4:3,mem_overbooked:32:3.2,core_mem_overbooked:24:3.2	4	3.2	4	m57	/sw/share/slurm/milou/uppmax_jobstats/m57/9358464
+9358406	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T16:06:28	00:20:37	overbooked:25%,!!half_overbooked,cores_overbooked:4:1,mem_overbooked:32:3.4,core_mem_overbooked:8:3.4	4	3.4	4	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9358406
+9358484	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T16:17:40	00:01:47	overbooked:25%,!!half_overbooked,cores_overbooked:4:1,mem_overbooked:32:2,core_mem_overbooked:8:2	4	2.0	4	m85	/sw/share/slurm/milou/uppmax_jobstats/m85/9358484
+9358474	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T16:18:55	00:03:02	.	4	2.6	.	m26	.
+9358501	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T16:22:26	00:06:33	overbooked:25%,!!half_overbooked,cores_overbooked:4:1,mem_overbooked:32:3.6,core_mem_overbooked:8:3.6	4	3.6	4	m176	/sw/share/slurm/milou/uppmax_jobstats/m176/9358501
+9358510	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_raw_counts_gene_table'	2016-12-19T16:24:33	00:04:40	overbooked:25%,!!half_overbooked,cores_overbooked:4:1,mem_overbooked:32:3.1,core_mem_overbooked:8:3.1	4	3.1	4	m176	/sw/share/slurm/milou/uppmax_jobstats/m176/9358510
+9358398	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T18:50:40	03:52:52	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m128	/sw/share/slurm/milou/uppmax_jobstats/m128/9358398
+9358399	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T18:50:44	03:52:56	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m136	/sw/share/slurm/milou/uppmax_jobstats/m136/9358399
+9358397	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T18:50:49	03:53:01	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m154	/sw/share/slurm/milou/uppmax_jobstats/m154/9358397
+9358401	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T18:51:08	03:35:19	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m140	/sw/share/slurm/milou/uppmax_jobstats/m140/9358401
+9358400	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T18:59:01	03:53:14	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m151	/sw/share/slurm/milou/uppmax_jobstats/m151/9358400
+9358402	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T19:03:16	03:47:27	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m148	/sw/share/slurm/milou/uppmax_jobstats/m148/9358402
+9358403	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T19:15:03	03:37:12	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m145	/sw/share/slurm/milou/uppmax_jobstats/m145/9358403
+9358404	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T19:29:46	03:39:55	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m149	/sw/share/slurm/milou/uppmax_jobstats/m149/9358404
+9358405	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T20:00:38	03:29:37	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m153	/sw/share/slurm/milou/uppmax_jobstats/m153/9358405
+9358407	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T21:03:39	03:37:44	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m137	/sw/share/slurm/milou/uppmax_jobstats/m137/9358407
+9358421	milou	NODE_FAIL	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T21:11:57	00:05:38	.	16	-1	.	m137	.
+9358601	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358408	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T21:18:45	03:33:03	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m150	/sw/share/slurm/milou/uppmax_jobstats/m150/9358408
+9359227	milou	COMPLETED	connys	b2010008	'ds10_lmo1'	2016-12-19T21:21:25	00:09:01	.	1	0.5	1	m110	/sw/share/slurm/milou/uppmax_jobstats/m110/9359227
+9358409	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T21:27:50	03:39:01	.	16	9.7	16	m207	/sw/share/slurm/milou/uppmax_jobstats/m207/9358409
+9359229	milou	COMPLETED	connys	b2010008	'ds5_lmo1'	2016-12-19T21:29:05	00:04:42	.	1	0.6	1	m110	/sw/share/slurm/milou/uppmax_jobstats/m110/9359229
+9359228	milou	COMPLETED	connys	b2010008	'ds20_lmo1'	2016-12-19T22:09:38	00:45:15	.	1	0.5	1	m92	/sw/share/slurm/milou/uppmax_jobstats/m92/9359228
+9358410	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T22:28:22	04:18:46	.	16	9.7	16	m69	/sw/share/slurm/milou/uppmax_jobstats/m69/9358410
+9358411	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T23:12:08	04:11:59	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m151	/sw/share/slurm/milou/uppmax_jobstats/m151/9358411
+9358412	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T23:14:09	04:10:00	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m148	/sw/share/slurm/milou/uppmax_jobstats/m148/9358412
+9359285	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-19T23:16:38	00:04:06	.	1	0.6	1	m50	/sw/share/slurm/milou/uppmax_jobstats/m50/9359285
+9358414	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T23:28:46	04:12:40	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m145	/sw/share/slurm/milou/uppmax_jobstats/m145/9358414
+9359289	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-19T23:32:22	00:01:49	.	1	0.4	1	m50	/sw/share/slurm/milou/uppmax_jobstats/m50/9359289
+9358413	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T23:33:30	04:25:21	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m144	/sw/share/slurm/milou/uppmax_jobstats/m144/9358413
+9358416	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T23:40:32	04:02:18	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m149	/sw/share/slurm/milou/uppmax_jobstats/m149/9358416
+9358415	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-19T23:42:36	04:08:22	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m129	/sw/share/slurm/milou/uppmax_jobstats/m129/9358415
+9359290	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-19T23:48:31	00:01:54	.	1	0.1	.	m16	.
+9358417	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T00:16:30	04:12:14	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m153	/sw/share/slurm/milou/uppmax_jobstats/m153/9358417
+9358418	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T00:32:20	04:04:03	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m140	/sw/share/slurm/milou/uppmax_jobstats/m140/9358418
+9358420	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T00:36:21	04:06:52	node_type_overbooked:mem512GB:mem128GB	16	9.8	16	m136	/sw/share/slurm/milou/uppmax_jobstats/m136/9358420
+9359309	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-20T00:41:42	00:04:59	.	1	0.6	1	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9359309
+9358419	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T00:47:00	04:18:43	node_type_overbooked:mem512GB:mem128GB	16	9.8	16	m128	/sw/share/slurm/milou/uppmax_jobstats/m128/9358419
+9359312	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-20T01:05:10	00:04:27	.	1	0.6	.	m16	.
+9359315	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-20T01:19:13	00:02:30	.	1	0.0	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9359315
+9359317	milou	CANCELLED	connys	b2010008	'ds5'	.	00:00:00	not_run	0	.	.	.
+9358423	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T01:30:27	04:02:19	.	16	9.7	16	m207	/sw/share/slurm/milou/uppmax_jobstats/m207/9358423
+9359318	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-20T01:35:11	00:04:26	.	1	0.5	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9359318
+9358422	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T01:37:24	04:13:01	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m150	/sw/share/slurm/milou/uppmax_jobstats/m150/9358422
+9358424	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T01:41:51	03:13:10	.	16	9.7	16	m69	/sw/share/slurm/milou/uppmax_jobstats/m69/9358424
+9359322	milou	CANCELLED	connys	b2010008	'ds5'	.	00:00:00	not_run	0	.	.	.
+9359320	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-20T01:45:14	00:04:27	.	1	0.5	.	m11	.
+9358425	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T02:28:04	03:15:33	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m151	/sw/share/slurm/milou/uppmax_jobstats/m151/9358425
+9358427	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T02:47:11	03:27:13	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m148	/sw/share/slurm/milou/uppmax_jobstats/m148/9358427
+9358426	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T02:47:13	03:27:15	.	16	9.8	16	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9358426
+9358428	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T03:13:32	03:16:53	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m122	/sw/share/slurm/milou/uppmax_jobstats/m122/9358428
+9358429	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T03:38:58	03:20:17	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m153	/sw/share/slurm/milou/uppmax_jobstats/m153/9358429
+9358430	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T03:47:43	03:25:02	node_type_overbooked:mem512GB:mem128GB	16	9.8	16	m125	/sw/share/slurm/milou/uppmax_jobstats/m125/9358430
+9358431	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T03:54:35	03:24:53	.	16	9.7	16	m59	/sw/share/slurm/milou/uppmax_jobstats/m59/9358431
+9358432	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T04:40:24	03:23:41	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m143	/sw/share/slurm/milou/uppmax_jobstats/m143/9358432
+9358434	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T04:54:20	03:13:33	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m150	/sw/share/slurm/milou/uppmax_jobstats/m150/9358434
+9358435	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T04:56:31	03:14:20	.	16	9.7	16	m69	/sw/share/slurm/milou/uppmax_jobstats/m69/9358435
+9358523	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-20T04:59:51	00:00:39	.	4	0.3	.	m161	.
+9358614	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:01:19	00:02:07	.	2	0.0	.	m160	.
+9358623	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:01:19	00:02:07	.	2	0.0	.	m160	.
+9358528	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:01:19	00:02:07	.	2	0.0	.	m156	.
+9358620	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:01:51	00:02:39	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:1.9,core_mem_overbooked:8:1.9	2	1.9	2	m16	/sw/share/slurm/milou/uppmax_jobstats/m16/9358620
+9358595	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:02:19	00:03:07	.	2	2.4	2	m11	/sw/share/slurm/milou/uppmax_jobstats/m11/9358595
+9358591	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:02:20	00:03:08	.	2	2.7	.	m159	.
+9358691	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:02:30	00:03:18	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:3.6,core_mem_overbooked:8:3.6	2	3.6	2	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9358691
+9358646	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:03:08	00:03:56	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:3.7,core_mem_overbooked:8:3.7	2	3.7	2	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9358646
+9358692	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:03:11	00:03:59	overbooked:50%,cores_overbooked:2:1	2	4.1	2	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9358692
+9358615	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:03:24	00:04:12	overbooked:50%,cores_overbooked:2:1	2	4.9	2	m7	/sw/share/slurm/milou/uppmax_jobstats/m7/9358615
+9358658	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:04:39	00:05:27	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:1.8,core_mem_overbooked:8:1.8	2	1.8	2	m7	/sw/share/slurm/milou/uppmax_jobstats/m7/9358658
+9358530	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:04:49	00:05:37	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:2.3,core_mem_overbooked:8:2.3	2	2.3	2	m159	/sw/share/slurm/milou/uppmax_jobstats/m159/9358530
+9358603	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:05:17	00:06:05	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:1.3,core_mem_overbooked:8:1.3	2	1.3	2	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9358603
+9358539	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:05:40	00:06:28	.	2	3.2	2	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9358539
+9358666	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:05:41	00:06:29	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:3.8,core_mem_overbooked:8:3.8	2	3.8	2	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9358666
+9358653	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:05:42	00:06:30	.	2	4.5	2	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9358653
+9358679	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:05:45	00:06:33	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:3.4,core_mem_overbooked:8:3.4	2	3.4	2	m61	/sw/share/slurm/milou/uppmax_jobstats/m61/9358679
+9358433	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T05:07:16	03:35:37	.	16	9.7	16	m207	/sw/share/slurm/milou/uppmax_jobstats/m207/9358433
+9358636	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:23:41	00:24:29	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:2.3,core_mem_overbooked:8:2.3	2	2.3	2	m11	/sw/share/slurm/milou/uppmax_jobstats/m11/9358636
+9358677	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:23:51	00:24:39	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:2.5,core_mem_overbooked:8:2.5	2	2.5	2	m159	/sw/share/slurm/milou/uppmax_jobstats/m159/9358677
+9358690	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:24:26	00:25:14	.	2	4.5	2	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9358690
+9358551	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:24:36	00:25:24	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:3.5,core_mem_overbooked:8:3.5	2	3.5	2	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9358551
+9358527	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:25:31	00:26:19	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:3.8,core_mem_overbooked:8:3.8	2	3.8	2	m61	/sw/share/slurm/milou/uppmax_jobstats/m61/9358527
+9358624	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:26:34	00:27:22	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:3.3,core_mem_overbooked:8:3.3	2	3.3	2	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9358624
+9358546	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T05:27:09	00:27:57	overbooked:50%,cores_overbooked:2:1,mem_overbooked:16:1.8,core_mem_overbooked:8:1.8	2	1.8	2	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9358546
+9358629	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:40	00:00:23	.	1	0.0	.	m156	.
+9358649	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:40	00:00:22	.	1	0.0	.	m161	.
+9358538	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:40	00:00:25	.	1	0.0	.	m50	.
+9358625	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:40	00:00:24	.	1	0.0	.	m155	.
+9358550	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:40	00:00:23	.	1	0.0	.	m156	.
+9358600	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:41	00:00:26	.	1	0.0	.	m62	.
+9358634	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:41	00:00:23	.	1	0.0	.	m161	.
+9358684	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:41	00:00:23	.	1	0.0	.	m161	.
+9358613	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:42	00:00:25	.	1	0.0	.	m155	.
+9358533	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:42	00:00:25	.	1	0.0	.	m168	.
+9358640	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:43	00:00:26	.	1	0.0	.	m160	.
+9358685	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:45	00:00:27	.	1	0.0	.	m160	.
+9358674	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:45	00:00:28	.	1	0.0	.	m160	.
+9358651	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:46	00:00:31	.	1	0.0	.	m52	.
+9358622	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:47	00:00:32	.	1	0.0	.	m65	.
+9358552	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:48	00:00:31	.	1	0.0	.	m168	.
+9358616	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:48	00:00:33	.	1	0.0	.	m52	.
+9358652	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:48	00:00:30	.	1	0.0	.	m160	.
+9358663	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:49	00:00:32	.	1	0.0	.	m168	.
+9358673	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:49	00:00:31	.	1	0.0	.	m160	.
+9358662	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:50	00:00:35	.	1	0.4	.	m52	.
+9358579	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:51	00:00:36	.	1	0.4	.	m52	.
+9358547	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:56	00:00:40	.	1	0.5	.	m72	.
+9358687	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:58	00:00:43	.	1	0.5	.	m72	.
+9358535	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:58	00:00:43	.	1	0.5	.	m72	.
+9358575	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:55:59	00:00:43	.	1	0.5	.	m72	.
+9358584	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:56:00	00:00:45	.	1	0.5	.	m72	.
+9358548	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:56:01	00:00:45	.	1	0.6	.	m72	.
+9358669	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:56:04	00:00:49	.	1	0.5	.	m58	.
+9358676	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:56:06	00:00:51	.	1	0.5	.	m58	.
+9358557	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:56:09	00:00:54	.	1	0.5	.	m58	.
+9358656	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:56:09	00:00:54	.	1	0.5	.	m58	.
+9358587	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:56:10	00:00:55	.	1	0.5	.	m58	.
+9358436	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T05:59:19	03:20:30	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m129	/sw/share/slurm/milou/uppmax_jobstats/m129/9358436
+9358693	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:59:26	00:00:17	.	1	0.0	.	m62	.
+9358534	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:59:28	00:00:19	.	1	0.0	.	m65	.
+9358630	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:59:29	00:00:20	.	1	0.0	.	m50	.
+9358664	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T05:59:33	00:00:24	.	1	0.0	.	m58	.
+9358645	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T06:01:12	00:02:03	.	2	0.0	.	m58	.
+9358621	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T06:01:13	00:02:04	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:2:0,mem_overbooked:16:0	2	0.0	2	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9358621
+9358599	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-20T06:01:13	00:02:04	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:2:0,mem_overbooked:16:0	2	0.0	2	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9358599
+9358438	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T06:02:06	03:14:33	.	16	9.8	16	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9358438
+9358437	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T06:12:33	03:25:44	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m152	/sw/share/slurm/milou/uppmax_jobstats/m152/9358437
+9358545	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T06:19:23	00:00:16	.	1	0.0	.	m62	.
+9358537	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T06:19:24	00:00:17	.	1	0.0	.	m65	.
+9358611	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T06:19:30	00:00:23	.	1	0.0	.	m50	.
+9358439	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T06:29:34	03:18:41	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m140	/sw/share/slurm/milou/uppmax_jobstats/m140/9358439
+9358589	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T06:35:43	00:00:21	.	1	0.0	.	m65	.
+9358440	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:01:17	03:22:29	.	16	9.8	16	m75	/sw/share/slurm/milou/uppmax_jobstats/m75/9358440
+9358602	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T07:05:34	00:00:19	.	1	0.0	.	m62	.
+9358441	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:14:42	03:33:43	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m153	/sw/share/slurm/milou/uppmax_jobstats/m153/9358441
+9358682	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T07:19:34	00:00:21	.	1	0.0	.	m50	.
+9358442	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:23:12	03:38:36	.	16	9.8	16	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9358442
+9358609	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T07:25:42	00:00:21	.	1	0.0	.	m52	.
+9358443	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:26:20	03:35:19	node_type_overbooked:mem512GB:mem128GB	16	9.8	16	m125	/sw/share/slurm/milou/uppmax_jobstats/m125/9358443
+9358540	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T07:29:38	00:00:22	.	1	0.0	.	m50	.
+9358446	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:54:13	03:13:02	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m145	/sw/share/slurm/milou/uppmax_jobstats/m145/9358446
+9358468	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:54:40	00:00:07	.	16	0.0	.	m145	.
+9358670	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358469	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:55:00	00:00:02	.	16	0.0	.	m145	.
+9358683	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358471	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:55:38	00:00:05	.	16	0.0	.	m145	.
+9358526	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358473	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:55:54	00:00:01	.	16	0.0	.	m145	.
+9358644	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358475	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:56:36	00:00:01	.	16	0.0	.	m145	.
+9358619	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358477	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:57:36	00:00:01	.	16	0.0	.	m145	.
+9358633	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358478	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:58:40	00:00:03	.	16	0.0	.	m145	.
+9358680	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358479	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T07:59:10	00:00:05	.	16	0.0	.	m145	.
+9358618	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T07:59:15	00:00:02	.	1	0.0	.	m50	.
+9358593	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358447	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:02:59	03:15:46	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m148	/sw/share/slurm/milou/uppmax_jobstats/m148/9358447
+9358480	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:03:22	00:00:03	.	16	0.0	.	m148	.
+9358637	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358481	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:03:42	00:00:03	.	16	0.0	.	m148	.
+9358598	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358482	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:03:56	00:00:01	.	16	0.0	.	m148	.
+9358665	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358483	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:04:09	00:00:01	.	16	0.0	.	m148	.
+9358594	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358485	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:04:42	00:00:01	.	16	0.0	.	m148	.
+9358604	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358486	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:05:03	00:00:01	.	16	0.0	.	m148	.
+9358586	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358487	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:05:16	00:00:02	.	16	0.0	.	m148	.
+9358583	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358488	milou	FAILED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:05:28	00:00:01	.	16	0.0	.	m148	.
+9358617	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358648	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T08:07:13	00:00:04	.	1	0.0	.	m20	.
+9358444	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:09:37	03:28:26	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m143	/sw/share/slurm/milou/uppmax_jobstats/m143/9358444
+9358445	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:09:37	03:26:24	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m144	/sw/share/slurm/milou/uppmax_jobstats/m144/9358445
+9358450	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:10:18	03:13:30	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m150	/sw/share/slurm/milou/uppmax_jobstats/m150/9358450
+9358448	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:10:43	03:13:55	.	16	9.7	16	m69	/sw/share/slurm/milou/uppmax_jobstats/m69/9358448
+9358569	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T08:15:23	00:00:18	.	1	0.0	.	m30	.
+9358590	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T08:15:28	00:00:23	.	1	0.0	.	m25	.
+9358608	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T08:15:28	00:00:23	.	1	0.0	.	m30	.
+9358638	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T08:15:28	00:00:23	.	1	0.0	.	m30	.
+9358451	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:18:06	03:16:51	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m135	/sw/share/slurm/milou/uppmax_jobstats/m135/9358451
+9358643	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T08:23:39	00:00:19	.	1	0.0	.	m52	.
+9358452	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T08:27:57	03:24:40	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m151	/sw/share/slurm/milou/uppmax_jobstats/m151/9358452
+9358650	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-20T08:31:43	00:00:24	.	1	0.0	.	m72	.
+9358453	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:00:54	03:18:33	.	16	9.7	16	m182	/sw/share/slurm/milou/uppmax_jobstats/m182/9358453
+9358454	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:01:13	03:18:52	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m136	/sw/share/slurm/milou/uppmax_jobstats/m136/9358454
+9358497	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:01:39	00:00:09	.	16	0.0	.	m136	.
+9358496	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:01:54	00:00:43	.	16	0.0	.	m182	.
+9358498	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:02:07	00:00:02	.	16	0.0	.	m136	.
+9358502	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:02:52	00:00:46	.	16	0.0	.	m182	.
+9358503	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:02:52	00:00:06	.	16	0.0	.	m136	.
+9358504	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:03:56	00:00:10	.	16	0.0	.	m136	.
+9358505	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:04:56	00:00:08	.	16	0.0	.	m136	.
+9358470	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358467	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358493	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358476	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358512	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358499	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358500	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358507	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358508	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358509	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358511	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358506	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358514	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358513	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358517	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358515	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358519	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358518	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358520	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358521	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358524	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358516	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358522	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358529	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358532	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358525	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	.	00:00:00	not_run	16	.	.	.
+9358541	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358536	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358531	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358549	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358542	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358544	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358543	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358578	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358580	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358596	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358597	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358607	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358610	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358612	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358627	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358628	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358631	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358632	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358639	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358641	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358642	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358654	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358655	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358660	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358681	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358688	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358689	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358581	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358626	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358582	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358606	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358588	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358605	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358635	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358585	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358647	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358592	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358657	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358659	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358661	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358667	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358668	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358694	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358686	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358671	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358675	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358678	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358672	milou	CANCELLED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	.	00:00:00	not_run	0	.	.	.
+9358456	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:12:03	03:12:52	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m146	/sw/share/slurm/milou/uppmax_jobstats/m146/9358456
+9358458	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:16:23	03:14:00	.	16	9.7	16	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9358458
+9359376	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-20T09:18:21	00:02:35	.	1	0.0	1	m77	/sw/share/slurm/milou/uppmax_jobstats/m77/9359376
+9358455	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:27:07	03:33:21	node_type_overbooked:mem512GB:mem128GB	16	9.8	16	m128	/sw/share/slurm/milou/uppmax_jobstats/m128/9358455
+9358459	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:29:11	03:16:20	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m152	/sw/share/slurm/milou/uppmax_jobstats/m152/9358459
+9359390	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:29:21	00:00:16	.	1	0.0	.	m72	.
+9359391	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:29:23	00:00:18	.	1	0.0	.	m72	.
+9359389	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:29:33	00:00:28	.	1	0.0	.	m72	.
+9358457	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:31:13	03:31:22	node_type_overbooked:mem512GB:mem128GB	16	9.8	16	m129	/sw/share/slurm/milou/uppmax_jobstats/m129/9358457
+9359384	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:35:36	00:06:31	.	1	0.0	1	m50	/sw/share/slurm/milou/uppmax_jobstats/m50/9359384
+9359385	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:35:44	00:06:39	.	1	0.0	1	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9359385
+9359426	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:35:48	00:06:43	.	1	0.0	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9359426
+9359427	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:36:03	00:06:58	.	1	0.0	1	m160	/sw/share/slurm/milou/uppmax_jobstats/m160/9359427
+9359423	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:36:50	00:07:45	.	1	0.0	1	m161	/sw/share/slurm/milou/uppmax_jobstats/m161/9359423
+9359396	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:10	00:08:05	.	1	0.0	1	m203	/sw/share/slurm/milou/uppmax_jobstats/m203/9359396
+9359421	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:13	00:08:08	.	1	0.0	1	m155	/sw/share/slurm/milou/uppmax_jobstats/m155/9359421
+9359442	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-20T09:37:23	00:05:37	.	1	0.5	1	m179	/sw/share/slurm/milou/uppmax_jobstats/m179/9359442
+9359424	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:23	00:08:18	.	1	0.0	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9359424
+9359397	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:28	00:08:23	.	1	0.0	1	m208	/sw/share/slurm/milou/uppmax_jobstats/m208/9359397
+9359429	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:33	00:08:28	.	1	0.0	1	m160	/sw/share/slurm/milou/uppmax_jobstats/m160/9359429
+9359430	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:35	00:08:30	.	1	0.0	1	m160	/sw/share/slurm/milou/uppmax_jobstats/m160/9359430
+9359435	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:52	00:08:47	.	1	0.0	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9359435
+9359420	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:52	00:08:47	.	1	0.0	1	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9359420
+9359436	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:56	00:08:51	.	1	0.0	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9359436
+9359381	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:37:58	00:08:53	.	1	0.0	1	m77	/sw/share/slurm/milou/uppmax_jobstats/m77/9359381
+9359382	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:38:06	00:09:01	.	1	0.0	1	m85	/sw/share/slurm/milou/uppmax_jobstats/m85/9359382
+9359414	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:38:10	00:09:05	.	1	0.0	1	m7	/sw/share/slurm/milou/uppmax_jobstats/m7/9359414
+9359393	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:38:24	00:09:19	.	1	0.0	1	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9359393
+9359394	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:38:26	00:09:21	.	1	0.0	1	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9359394
+9359418	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:38:34	00:09:29	.	1	0.0	1	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9359418
+9358460	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:38:40	03:18:50	.	16	9.7	16	m59	/sw/share/slurm/milou/uppmax_jobstats/m59/9358460
+9359432	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:38:42	00:09:37	.	1	0.0	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9359432
+9359415	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:38:48	00:09:43	.	1	0.0	1	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9359415
+9359433	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:38:48	00:09:43	.	1	0.0	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9359433
+9359400	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:38:56	00:09:51	.	1	0.0	1	m195	/sw/share/slurm/milou/uppmax_jobstats/m195/9359400
+9359399	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:39:08	00:10:03	.	1	0.0	1	m195	/sw/share/slurm/milou/uppmax_jobstats/m195/9359399
+9359417	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:39:08	00:10:03	.	1	0.0	1	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9359417
+9359412	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:39:29	00:10:24	.	1	0.0	1	m7	/sw/share/slurm/milou/uppmax_jobstats/m7/9359412
+9359406	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:39:50	00:10:45	.	1	0.0	1	m16	/sw/share/slurm/milou/uppmax_jobstats/m16/9359406
+9359387	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:39:53	00:10:48	.	1	0.0	1	m65	/sw/share/slurm/milou/uppmax_jobstats/m65/9359387
+9359388	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:40:03	00:10:58	.	1	0.0	1	m65	/sw/share/slurm/milou/uppmax_jobstats/m65/9359388
+9359411	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:40:05	00:11:00	.	1	0.0	1	m7	/sw/share/slurm/milou/uppmax_jobstats/m7/9359411
+9359405	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:40:28	00:11:23	.	1	0.0	1	m11	/sw/share/slurm/milou/uppmax_jobstats/m11/9359405
+9359403	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:40:38	00:11:33	.	1	0.0	1	m194	/sw/share/slurm/milou/uppmax_jobstats/m194/9359403
+9359409	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:41:01	00:11:56	.	1	0.0	1	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9359409
+9359408	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:41:03	00:11:58	.	1	0.0	1	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9359408
+9359402	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:41:08	00:12:03	.	1	0.0	1	m194	/sw/share/slurm/milou/uppmax_jobstats/m194/9359402
+9359383	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:42:57	00:13:52	.	1	0.0	1	m85	/sw/share/slurm/milou/uppmax_jobstats/m85/9359383
+9359425	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:43:48	00:14:43	.	1	0.0	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9359425
+9359422	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:44:25	00:15:20	.	1	0.0	1	m159	/sw/share/slurm/milou/uppmax_jobstats/m159/9359422
+9359395	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:45:08	00:16:03	.	1	0.0	1	m202	/sw/share/slurm/milou/uppmax_jobstats/m202/9359395
+9359428	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:45:16	00:16:11	.	1	0.0	1	m160	/sw/share/slurm/milou/uppmax_jobstats/m160/9359428
+9359419	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:45:33	00:16:28	.	1	0.0	1	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9359419
+9359431	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:45:57	00:16:52	.	1	0.0	1	m160	/sw/share/slurm/milou/uppmax_jobstats/m160/9359431
+9359392	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:46:35	00:17:30	.	1	0.0	1	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9359392
+9359413	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:46:37	00:17:32	.	1	0.0	1	m7	/sw/share/slurm/milou/uppmax_jobstats/m7/9359413
+9359434	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:47:08	00:18:03	.	1	0.0	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9359434
+9359438	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:47:21	00:15:35	.	1	0.0	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9359438
+9359398	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:47:33	00:18:28	.	1	0.0	1	m195	/sw/share/slurm/milou/uppmax_jobstats/m195/9359398
+9359380	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:47:44	00:18:39	.	1	0.0	1	m77	/sw/share/slurm/milou/uppmax_jobstats/m77/9359380
+9359416	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:47:51	00:18:46	.	1	0.0	1	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9359416
+9359410	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:49:51	00:20:46	.	1	0.0	1	m7	/sw/share/slurm/milou/uppmax_jobstats/m7/9359410
+9359439	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:50:03	00:18:17	.	1	0.0	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9359439
+9359450	milou	COMPLETED	connys	b2010008	'ds5'	2016-12-20T09:50:17	00:05:15	.	1	0.5	1	m86	/sw/share/slurm/milou/uppmax_jobstats/m86/9359450
+9359440	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:50:47	00:19:01	.	1	0.0	1	m170	/sw/share/slurm/milou/uppmax_jobstats/m170/9359440
+9359404	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:50:59	00:21:54	.	1	0.0	1	m194	/sw/share/slurm/milou/uppmax_jobstats/m194/9359404
+9358461	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T09:51:12	03:21:20	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m140	/sw/share/slurm/milou/uppmax_jobstats/m140/9358461
+9359407	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:52:03	00:22:58	.	1	0.0	1	m24	/sw/share/slurm/milou/uppmax_jobstats/m24/9359407
+9359437	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:53:03	00:17:17	.	1	0.0	1	m196	/sw/share/slurm/milou/uppmax_jobstats/m196/9359437
+9359386	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:53:37	00:24:32	.	1	0.0	1	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9359386
+9359441	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:53:58	00:22:12	.	1	0.0	1	m178	/sw/share/slurm/milou/uppmax_jobstats/m178/9359441
+9359401	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T09:54:11	00:25:06	.	1	0.0	1	m194	/sw/share/slurm/milou/uppmax_jobstats/m194/9359401
+9358462	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T10:20:49	03:19:15	.	16	9.7	16	m75	/sw/share/slurm/milou/uppmax_jobstats/m75/9358462
+9360194	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:26:01	00:14:25	.	1	0.0	1	m183	/sw/share/slurm/milou/uppmax_jobstats/m183/9360194
+9360218	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:36:10	00:00:55	.	1	0.0	.	m65	.
+9358463	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T10:44:31	03:29:11	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m153	/sw/share/slurm/milou/uppmax_jobstats/m153/9358463
+9360219	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:45:26	00:00:09	.	1	0.0	.	m11	.
+9360159	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:48:10	00:00:19	.	1	0.0	.	m16	.
+9359367	milou	COMPLETED	alneberg	b2010008	'_interactive'	2016-12-20T10:48:45	02:01:02	.	1	7.8	1	m50	/sw/share/slurm/milou/uppmax_jobstats/m50/9359367
+9360157	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:54:15	00:06:24	.	1	0.0	1	m11	/sw/share/slurm/milou/uppmax_jobstats/m11/9360157
+9360221	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:54:27	00:05:18	.	1	0.0	1	m176	/sw/share/slurm/milou/uppmax_jobstats/m176/9360221
+9360181	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:55:44	00:00:11	.	1	0.0	.	m67	.
+9360187	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:57:54	00:01:33	.	1	0.0	1	m104	/sw/share/slurm/milou/uppmax_jobstats/m104/9360187
+9360189	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:57:54	00:00:24	.	1	0.0	.	m116	.
+9360188	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:58:08	00:01:08	.	1	0.0	.	m184	.
+9360170	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:58:24	00:06:33	.	1	0.0	1	m65	/sw/share/slurm/milou/uppmax_jobstats/m65/9360170
+9358465	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T10:58:28	03:34:55	.	16	9.8	16	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9358465
+9360161	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:58:39	00:10:48	.	1	0.0	1	m51	/sw/share/slurm/milou/uppmax_jobstats/m51/9360161
+9360168	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:58:44	00:06:53	.	1	0.0	1	m65	/sw/share/slurm/milou/uppmax_jobstats/m65/9360168
+9360180	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:58:50	00:03:17	.	1	0.0	1	m67	/sw/share/slurm/milou/uppmax_jobstats/m67/9360180
+9360199	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:59:01	00:00:13	.	1	0.0	.	m104	.
+9360172	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:59:02	00:04:27	.	1	0.0	1	m75	/sw/share/slurm/milou/uppmax_jobstats/m75/9360172
+9360207	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:59:15	00:00:10	.	1	0.0	.	m75	.
+9360171	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T10:59:27	00:04:52	.	1	0.0	1	m11	/sw/share/slurm/milou/uppmax_jobstats/m11/9360171
+9360164	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:00:05	00:08:14	.	1	0.0	1	m50	/sw/share/slurm/milou/uppmax_jobstats/m50/9360164
+9360156	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:00:13	00:12:22	.	1	0.0	1	m179	/sw/share/slurm/milou/uppmax_jobstats/m179/9360156
+9360193	milou	COMPLETED	connys	b2010008	'dsBACL2_20'	2016-12-20T11:00:18	00:02:26	.	1	0.0	.	m17	.
+9360174	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:00:25	00:05:50	.	1	0.0	1	m196	/sw/share/slurm/milou/uppmax_jobstats/m196/9360174
+9360165	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:00:50	00:08:59	.	1	0.0	1	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9360165
+9360206	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:01:05	00:02:12	.	1	0.0	.	m67	.
+9360173	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:01:18	00:06:43	.	1	0.0	1	m176	/sw/share/slurm/milou/uppmax_jobstats/m176/9360173
+9360163	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:01:43	00:09:52	.	1	0.0	1	m16	/sw/share/slurm/milou/uppmax_jobstats/m16/9360163
+9360162	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:01:43	00:13:52	.	1	0.0	1	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9360162
+9360228	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:02:09	00:01:14	.	1	0.0	.	m112	.
+9360198	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:02:19	00:03:31	.	1	0.0	1	m65	/sw/share/slurm/milou/uppmax_jobstats/m65/9360198
+9360179	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:02:19	00:06:46	.	1	0.0	1	m67	/sw/share/slurm/milou/uppmax_jobstats/m67/9360179
+9358466	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T11:02:32	03:35:55	node_type_overbooked:mem512GB:mem128GB	16	9.8	16	m125	/sw/share/slurm/milou/uppmax_jobstats/m125/9358466
+9360167	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:02:50	00:10:59	.	1	0.0	1	m65	/sw/share/slurm/milou/uppmax_jobstats/m65/9360167
+9360183	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:03:00	00:07:23	.	1	0.0	1	m202	/sw/share/slurm/milou/uppmax_jobstats/m202/9360183
+9360205	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:03:07	00:04:19	.	1	0.0	.	m184	.
+9360158	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:03:20	00:15:29	.	1	0.0	1	m16	/sw/share/slurm/milou/uppmax_jobstats/m16/9360158
+9360160	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:03:23	00:15:32	.	1	0.0	1	m16	/sw/share/slurm/milou/uppmax_jobstats/m16/9360160
+9360182	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:03:27	00:07:54	.	1	0.0	1	m67	/sw/share/slurm/milou/uppmax_jobstats/m67/9360182
+9360175	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:03:53	00:08:20	.	1	0.0	1	m67	/sw/share/slurm/milou/uppmax_jobstats/m67/9360175
+9360217	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:04:08	00:03:50	.	1	0.0	1	m179	/sw/share/slurm/milou/uppmax_jobstats/m179/9360217
+9360166	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:04:25	00:12:34	.	1	0.0	1	m65	/sw/share/slurm/milou/uppmax_jobstats/m65/9360166
+9360208	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:04:33	00:05:26	.	1	0.0	1	m104	/sw/share/slurm/milou/uppmax_jobstats/m104/9360208
+9360209	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:05:08	00:06:01	.	1	0.0	1	m51	/sw/share/slurm/milou/uppmax_jobstats/m51/9360209
+9360197	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:06:11	00:07:23	.	1	0.0	1	m65	/sw/share/slurm/milou/uppmax_jobstats/m65/9360197
+9360190	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:06:21	00:08:46	.	1	0.0	1	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9360190
+9360211	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:06:31	00:07:14	.	1	0.0	1	m75	/sw/share/slurm/milou/uppmax_jobstats/m75/9360211
+9360215	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:06:45	00:06:40	.	1	0.0	1	m160	/sw/share/slurm/milou/uppmax_jobstats/m160/9360215
+9360191	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:06:50	00:09:15	.	1	0.0	1	m206	/sw/share/slurm/milou/uppmax_jobstats/m206/9360191
+9360212	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:06:54	00:07:25	.	1	0.0	1	m194	/sw/share/slurm/milou/uppmax_jobstats/m194/9360212
+9360216	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:06:55	00:06:45	.	1	0.0	1	m50	/sw/share/slurm/milou/uppmax_jobstats/m50/9360216
+9360177	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:08:10	00:12:37	.	1	0.0	1	m67	/sw/share/slurm/milou/uppmax_jobstats/m67/9360177
+9360214	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:08:30	00:08:27	.	1	0.0	1	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9360214
+9360195	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:09:25	00:10:37	.	1	0.0	1	m161	/sw/share/slurm/milou/uppmax_jobstats/m161/9360195
+9360204	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:10:04	00:11:16	.	1	0.0	1	m170	/sw/share/slurm/milou/uppmax_jobstats/m170/9360204
+9360224	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:11:03	00:10:40	.	1	0.0	1	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9360224
+9360178	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:11:08	00:15:35	.	1	0.0	1	m67	/sw/share/slurm/milou/uppmax_jobstats/m67/9360178
+9360176	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:11:34	00:16:01	.	1	0.0	1	m67	/sw/share/slurm/milou/uppmax_jobstats/m67/9360176
+9360185	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:12:12	00:16:19	.	1	0.0	1	m37	/sw/share/slurm/milou/uppmax_jobstats/m37/9360185
+9360227	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:13:15	00:12:20	.	1	0.0	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9360227
+9360196	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:13:29	00:14:41	.	1	0.0	1	m51	/sw/share/slurm/milou/uppmax_jobstats/m51/9360196
+9360213	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:14:10	00:14:40	.	1	0.0	1	m11	/sw/share/slurm/milou/uppmax_jobstats/m11/9360213
+9360186	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:14:40	00:18:27	.	1	0.0	1	m93	/sw/share/slurm/milou/uppmax_jobstats/m93/9360186
+9360225	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:15:08	00:14:38	.	1	0.0	1	m196	/sw/share/slurm/milou/uppmax_jobstats/m196/9360225
+9360184	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:15:38	00:19:49	.	1	0.0	1	m67	/sw/share/slurm/milou/uppmax_jobstats/m67/9360184
+9360200	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:15:58	00:17:10	.	1	0.0	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9360200
+9360201	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:16:07	00:17:19	.	1	0.0	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9360201
+9360231	milou	COMPLETED	connys	b2010008	'dsBACL1_5'	2016-12-20T11:16:34	00:12:43	.	1	0.6	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9360231
+9360223	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:16:42	00:18:43	.	1	0.0	1	m116	/sw/share/slurm/milou/uppmax_jobstats/m116/9360223
+9360226	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:16:43	00:15:48	.	1	0.0	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9360226
+9360203	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:17:03	00:18:15	.	1	0.0	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9360203
+9360229	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:17:21	00:16:26	.	1	0.0	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9360229
+9360220	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:17:48	00:06:01	.	1	0.0	1	m85	/sw/share/slurm/milou/uppmax_jobstats/m85/9360220
+9360202	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:20:26	00:21:38	.	1	0.0	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9360202
+9358491	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T11:26:52	03:16:46	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m144	/sw/share/slurm/milou/uppmax_jobstats/m144/9358491
+9361519	milou	COMPLETED	connys	b2010008	'dsBACL2_5'	2016-12-20T11:27:22	00:01:28	.	1	0.0	1	m75	/sw/share/slurm/milou/uppmax_jobstats/m75/9361519
+9358489	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T11:28:22	03:22:42	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m148	/sw/share/slurm/milou/uppmax_jobstats/m148/9358489
+9360222	milou	COMPLETED	alneberg	b2010008	'sbatch_job'	2016-12-20T11:28:54	00:17:07	.	1	0.0	1	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9360222
+9358490	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T11:32:48	03:22:42	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m143	/sw/share/slurm/milou/uppmax_jobstats/m143/9358490
+9361749	milou	COMPLETED	connys	b2010008	'dsBACL2_5'	2016-12-20T11:35:25	00:01:31	.	1	0.6	.	m75	.
+9358494	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T11:40:00	03:21:34	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m135	/sw/share/slurm/milou/uppmax_jobstats/m135/9358494
+9358492	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T11:46:48	03:36:10	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m150	/sw/share/slurm/milou/uppmax_jobstats/m150/9358492
+9361764	milou	COMPLETED	connys	b2010008	'BACL2_comb'	2016-12-20T12:04:26	00:10:28	.	1	0.6	1	m82	/sw/share/slurm/milou/uppmax_jobstats/m82/9361764
+9358495	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-20T12:05:49	03:37:35	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m151	/sw/share/slurm/milou/uppmax_jobstats/m151/9358495
+9361884	milou	COMPLETED	connys	b2010008	'BACL2_lmo_5'	2016-12-20T12:07:41	00:01:38	.	1	0.6	.	m16	.
+9362012	milou	COMPLETED	connys	b2010008	'BACL2_lmo_5'	2016-12-20T13:06:36	00:00:34	.	1	0.0	1	m75	/sw/share/slurm/milou/uppmax_jobstats/m75/9362012
+9362050	milou	COMPLETED	connys	b2010008	'BACL20_50'	2016-12-20T14:03:04	00:10:56	.	1	0.5	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9362050
+9362018	milou	TIMEOUT	connys	b2010008	'_interactive'	2016-12-20T14:15:50	01:00:22	.	1	0.0	1	m1	/sw/share/slurm/milou/uppmax_jobstats/m1/9362018
+9363869	milou	COMPLETED	connys	b2010008	'ds_pers'	2016-12-21T09:44:17	00:08:29	.	1	0.5	1	m174	/sw/share/slurm/milou/uppmax_jobstats/m174/9363869
+9363993	milou	COMPLETED	connys	b2010008	'ds_pers'	2016-12-21T10:04:57	00:08:57	.	1	0.5	1	m178	/sw/share/slurm/milou/uppmax_jobstats/m178/9363993
+9363999	milou	COMPLETED	connys	b2010008	'ds_5_pers'	2016-12-21T10:07:15	00:01:25	.	1	0.5	.	m161	.
+9364000	milou	COMPLETED	connys	b2010008	'ds_10_pers'	2016-12-21T10:12:02	00:02:11	.	1	0.1	1	m6	/sw/share/slurm/milou/uppmax_jobstats/m6/9364000
+9364008	milou	COMPLETED	connys	b2010008	'ds_20_pers'	2016-12-21T10:29:33	00:03:43	.	1	0.5	1	m183	/sw/share/slurm/milou/uppmax_jobstats/m183/9364008
+9364012	milou	COMPLETED	connys	b2010008	'ds_100_pers'	2016-12-21T10:54:26	00:18:34	.	1	0.6	1	m178	/sw/share/slurm/milou/uppmax_jobstats/m178/9364012
+9364108	milou	COMPLETED	connys	b2010008	'ds_175_pers'	2016-12-21T11:41:15	00:35:21	.	1	0.8	1	m107	/sw/share/slurm/milou/uppmax_jobstats/m107/9364108
+9364208	milou	COMPLETED	connys	b2010008	'median_5'	2016-12-21T11:59:45	00:01:47	.	1	0.3	.	m159	.
+9364213	milou	COMPLETED	connys	b2010008	'median_10'	2016-12-21T12:11:43	00:01:45	.	1	0.2	.	m167	.
+9364249	milou	COMPLETED	connys	b2010008	'median_20'	2016-12-21T12:45:22	00:01:22	.	1	0.1	.	m159	.
+9364257	milou	COMPLETED	connys	b2010008	'median_50'	2016-12-21T13:05:32	00:01:32	.	1	0.1	.	m168	.
+9364263	milou	COMPLETED	connys	b2010008	'median_100'	2016-12-21T13:13:43	00:01:43	.	1	0.1	1	m159	/sw/share/slurm/milou/uppmax_jobstats/m159/9364263
+9364273	milou	COMPLETED	connys	b2010008	'median_175'	2016-12-21T13:23:39	00:03:39	.	1	0.1	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9364273
+9364939	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:30:19	00:00:13	.	1	0.0	.	m182	.
+9364922	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:30:31	00:00:26	.	1	0.0	.	m62	.
+9364921	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:30:34	00:00:29	.	1	0.0	.	m51	.
+9364925	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:30:34	00:00:29	.	1	0.0	.	m180	.
+9364926	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:30:34	00:00:29	.	1	0.0	.	m181	.
+9364920	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:30:36	00:00:31	.	1	0.4	.	m50	.
+9364938	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:30:39	00:00:33	.	1	0.4	.	m183	.
+9364930	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:30:39	00:00:34	.	1	0.4	.	m183	.
+9364946	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:01	00:00:55	.	1	0.4	.	m182	.
+9364961	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:02	00:00:55	.	1	0.4	.	m182	.
+9364941	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:06	00:01:00	.	1	0.4	.	m182	.
+9364975	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:09	00:01:01	.	1	0.5	.	m182	.
+9364967	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:09	00:01:01	.	1	0.5	.	m182	.
+9364945	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:09	00:01:03	.	1	0.4	.	m182	.
+9364959	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:09	00:01:02	.	1	0.5	.	m182	.
+9364969	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:09	00:01:01	.	1	0.5	.	m182	.
+9364979	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:09	00:01:01	.	1	0.5	.	m182	.
+9364954	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:31:11	00:01:04	.	1	0.5	.	m182	.
+9364929	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-21T14:31:12	00:01:07	.	4	0.4	.	m79	.
+9364948	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-21T14:34:34	00:00:28	.	4	0.0	.	m34	.
+9364918	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:34:34	00:00:29	.	1	0.0	.	m200	.
+9364950	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T14:34:36	00:00:30	.	1	0.0	.	m200	.
+9365014	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-21T14:36:13	00:02:05	.	2	0.0	.	m67	.
+9364997	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-21T14:36:13	00:02:05	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:2:0,mem_overbooked:16:0	2	0.0	2	m34	/sw/share/slurm/milou/uppmax_jobstats/m34/9364997
+9364995	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-21T14:36:13	00:02:05	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:2:0,mem_overbooked:16:0	2	0.0	2	m13	/sw/share/slurm/milou/uppmax_jobstats/m13/9364995
+9365029	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-21T14:40:10	00:02:03	.	2	0.0	.	m67	.
+9365007	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-21T14:40:10	00:02:03	.	2	0.0	.	m67	.
+9364993	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-21T14:40:10	00:02:03	.	2	0.0	.	m67	.
+9365044	milou	FAILED	connys	b2010008	'snpcall_5'	2016-12-21T15:00:36	00:00:32	.	1	0.0	.	m159	.
+9365048	milou	COMPLETED	connys	b2010008	'snpcall_5'	2016-12-21T15:11:08	00:01:02	.	1	0.0	.	m159	.
+9365057	milou	COMPLETED	connys	b2010008	'combined_5'	2016-12-21T15:26:20	00:00:10	.	1	0.0	.	m159	.
+9365061	milou	COMPLETED	connys	b2010008	'combined_5_BACL20'	2016-12-21T15:27:35	00:01:25	.	1	0.0	.	m168	.
+9364912	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-21T21:09:15	03:22:41	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m140	/sw/share/slurm/milou/uppmax_jobstats/m140/9364912
+9364911	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-21T21:11:11	03:38:18	.	16	9.7	16	m35	/sw/share/slurm/milou/uppmax_jobstats/m35/9364911
+9364999	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T21:11:29	00:00:48	.	1	0.0	.	m176	.
+9364992	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T21:15:46	00:00:51	.	1	0.4	.	m176	.
+9364914	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-21T21:17:39	03:30:52	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m132	/sw/share/slurm/milou/uppmax_jobstats/m132/9364914
+9364982	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T21:19:17	00:00:21	.	1	0.0	.	m176	.
+9364913	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-21T21:21:16	03:34:34	.	16	9.7	16	m39	/sw/share/slurm/milou/uppmax_jobstats/m39/9364913
+9365006	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T21:23:26	00:00:33	.	1	0.0	.	m197	.
+9366449	milou	COMPLETED	connys	b2010008	'combined_5'	2016-12-21T22:01:03	00:00:24	.	1	0.0	.	m197	.
+9366456	milou	COMPLETED	connys	b2010008	'combined_5'	2016-12-21T22:25:27	00:00:26	.	1	0.0	.	m197	.
+9366464	milou	COMPLETED	connys	b2010008	'combined_5'	2016-12-21T23:07:32	00:00:51	.	1	0.0	.	m208	.
+9364915	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-21T23:14:42	03:46:24	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m153	/sw/share/slurm/milou/uppmax_jobstats/m153/9364915
+9366477	milou	FAILED	connys	b2010008	'combined_10'	2016-12-21T23:17:02	00:00:19	.	1	0.0	.	m200	.
+9365023	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T23:17:39	00:00:41	.	1	0.5	.	m200	.
+9364917	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-21T23:20:17	03:32:47	.	16	9.8	16	m207	/sw/share/slurm/milou/uppmax_jobstats/m207/9364917
+9365035	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T23:21:51	00:00:52	.	1	0.0	.	m11	.
+9364916	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-21T23:38:23	03:52:11	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m154	/sw/share/slurm/milou/uppmax_jobstats/m154/9364916
+9364919	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-21T23:39:21	03:37:54	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m148	/sw/share/slurm/milou/uppmax_jobstats/m148/9364919
+9365019	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T23:41:55	00:00:49	.	1	0.4	.	m17	.
+9365033	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-21T23:41:55	00:00:49	.	1	0.4	.	m17	.
+9366487	milou	COMPLETED	connys	b2010008	'combined_10'	2016-12-21T23:42:28	00:01:42	.	1	0.5	.	m200	.
+9368289	milou	COMPLETED	connys	b2010008	'combined_20'	2016-12-21T23:53:40	00:02:52	.	1	0.3	1	m57	/sw/share/slurm/milou/uppmax_jobstats/m57/9368289
+9368290	milou	COMPLETED	connys	b2010008	'combined_50'	2016-12-22T00:04:05	00:07:15	.	1	0.5	1	m180	/sw/share/slurm/milou/uppmax_jobstats/m180/9368290
+9368293	milou	COMPLETED	connys	b2010008	'combined_100'	2016-12-22T00:18:55	00:18:05	.	1	0.5	1	m33	/sw/share/slurm/milou/uppmax_jobstats/m33/9368293
+9368294	milou	COMPLETED	connys	b2010008	'combined_175'	2016-12-22T00:52:51	00:36:01	.	1	0.5	1	m41	/sw/share/slurm/milou/uppmax_jobstats/m41/9368294
+9364923	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T01:12:37	03:38:46	.	16	9.8	16	m75	/sw/share/slurm/milou/uppmax_jobstats/m75/9364923
+9364924	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T01:17:33	03:21:05	.	16	9.7	16	m164	/sw/share/slurm/milou/uppmax_jobstats/m164/9364924
+9365005	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T01:17:56	00:00:36	.	1	0.6	.	m204	.
+9364989	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T01:21:59	00:00:40	.	1	0.5	.	m204	.
+9364927	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T01:31:23	03:29:05	node_type_overbooked:mem512GB:mem128GB	16	9.8	16	m125	/sw/share/slurm/milou/uppmax_jobstats/m125/9364927
+9365024	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T01:37:45	00:00:19	.	1	0.0	.	m204	.
+9364928	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T01:47:54	03:44:19	.	16	9.8	16	m184	/sw/share/slurm/milou/uppmax_jobstats/m184/9364928
+9364984	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T01:49:57	00:00:32	.	1	0.0	.	m204	.
+9364931	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T02:51:54	03:21:52	.	16	9.7	16	m182	/sw/share/slurm/milou/uppmax_jobstats/m182/9364931
+9364985	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T02:53:46	00:00:25	.	1	0.0	.	m6	.
+9364932	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T03:39:42	03:33:46	.	16	9.8	16	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9364932
+9365027	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T03:42:11	00:00:39	.	1	0.6	.	m6	.
+9364933	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T03:50:37	03:29:47	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m143	/sw/share/slurm/milou/uppmax_jobstats/m143/9364933
+9365031	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T03:52:07	00:00:29	.	1	0.0	.	m6	.
+9364934	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T04:07:12	03:24:27	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m140	/sw/share/slurm/milou/uppmax_jobstats/m140/9364934
+9365036	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T04:12:02	00:00:24	.	1	0.0	.	m15	.
+9364935	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T06:06:55	03:26:11	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m133	/sw/share/slurm/milou/uppmax_jobstats/m133/9364935
+9365000	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T06:08:06	00:00:21	.	1	0.0	.	m11	.
+9364936	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T06:08:16	03:21:12	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m137	/sw/share/slurm/milou/uppmax_jobstats/m137/9364936
+9364991	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T06:12:01	00:00:16	.	1	0.0	.	m11	.
+9364937	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T06:20:08	03:23:06	.	16	9.7	16	m182	/sw/share/slurm/milou/uppmax_jobstats/m182/9364937
+9365010	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T06:24:05	00:00:18	.	1	0.0	.	m11	.
+9364940	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T06:25:40	03:20:38	.	16	9.7	16	m207	/sw/share/slurm/milou/uppmax_jobstats/m207/9364940
+9365020	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T06:28:33	00:00:51	.	1	0.0	.	m11	.
+9364942	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T07:17:15	03:22:20	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m146	/sw/share/slurm/milou/uppmax_jobstats/m146/9364942
+9365002	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T07:20:05	00:00:24	.	1	0.0	.	m11	.
+9364952	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T07:22:28	02:17:56	.	16	9.5	16	m63	/sw/share/slurm/milou/uppmax_jobstats/m63/9364952
+9365021	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T07:23:46	00:00:05	.	1	0.0	.	m11	.
+9364944	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T07:59:54	03:20:13	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m141	/sw/share/slurm/milou/uppmax_jobstats/m141/9364944
+9364998	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T08:02:03	00:00:18	.	1	0.0	.	m11	.
+9364943	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T08:04:54	03:43:33	.	16	9.8	16	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9364943
+9365028	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T08:06:06	00:00:22	.	1	0.0	.	m11	.
+9364951	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T08:20:29	03:18:48	.	16	9.7	16	m30	/sw/share/slurm/milou/uppmax_jobstats/m30/9364951
+9365030	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T08:22:13	00:00:30	.	1	0.0	.	m7	.
+9364949	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T08:27:18	03:31:45	.	16	9.8	16	m40	/sw/share/slurm/milou/uppmax_jobstats/m40/9364949
+9364947	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T08:28:22	03:42:22	.	16	9.8	16	m118	/sw/share/slurm/milou/uppmax_jobstats/m118/9364947
+9364987	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T08:30:03	00:00:23	.	1	0.0	.	m7	.
+9365001	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T08:30:08	00:00:28	.	1	0.0	.	m24	.
+9364953	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T08:38:48	03:21:28	.	16	9.7	16	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9364953
+9364986	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T08:42:13	00:00:37	.	1	0.5	1	m93	/sw/share/slurm/milou/uppmax_jobstats/m93/9364986
+9364955	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T09:16:32	03:24:24	.	16	9.7	16	m198	/sw/share/slurm/milou/uppmax_jobstats/m198/9364955
+9365009	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T09:20:15	00:00:36	.	1	0.5	.	m72	.
+9364956	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T09:26:58	03:18:20	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m137	/sw/share/slurm/milou/uppmax_jobstats/m137/9364956
+9365011	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T09:28:00	00:00:21	.	1	0.0	.	m72	.
+9364957	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T09:34:05	03:25:14	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m133	/sw/share/slurm/milou/uppmax_jobstats/m133/9364957
+9365022	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T09:37:33	00:01:55	.	1	0.4	.	m33	.
+9364958	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T09:41:42	03:24:21	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m153	/sw/share/slurm/milou/uppmax_jobstats/m153/9364958
+9364960	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T09:45:35	03:19:37	.	16	9.7	16	m207	/sw/share/slurm/milou/uppmax_jobstats/m207/9364960
+9364990	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T09:46:05	00:00:25	.	1	0.0	.	m34	.
+9365004	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T09:47:59	00:00:16	.	1	0.0	.	m34	.
+9364962	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T09:51:03	03:18:12	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m152	/sw/share/slurm/milou/uppmax_jobstats/m152/9364962
+9364994	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T09:55:21	00:03:39	.	1	0.5	.	m34	.
+9364963	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T10:20:04	03:28:49	.	16	9.8	16	m171	/sw/share/slurm/milou/uppmax_jobstats/m171/9364963
+9365016	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T10:24:24	00:00:42	.	1	0.5	.	m62	.
+9364964	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T10:24:54	03:26:10	.	16	9.8	16	m175	/sw/share/slurm/milou/uppmax_jobstats/m175/9364964
+9365026	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T10:28:06	00:00:24	.	1	0.0	.	m72	.
+9364966	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T10:28:06	03:17:03	.	16	9.7	16	m17	/sw/share/slurm/milou/uppmax_jobstats/m17/9364966
+9365034	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T10:32:19	00:00:37	.	1	0.5	.	m159	.
+9364968	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T10:33:21	03:15:48	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m146	/sw/share/slurm/milou/uppmax_jobstats/m146/9364968
+9365025	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T10:36:14	00:00:32	.	1	0.0	.	m159	.
+9364965	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T10:46:13	03:38:23	.	16	9.8	16	m111	/sw/share/slurm/milou/uppmax_jobstats/m111/9364965
+9365013	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T10:48:06	00:00:24	.	1	0.0	.	m24	.
+9364971	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T10:58:34	03:19:56	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m140	/sw/share/slurm/milou/uppmax_jobstats/m140/9364971
+9364970	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T11:00:17	03:37:31	.	16	9.8	16	m63	/sw/share/slurm/milou/uppmax_jobstats/m63/9364970
+9365032	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:02:18	00:00:34	.	1	0.4	.	m159	.
+9365003	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:02:23	00:00:39	.	1	0.5	.	m73	.
+9364973	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T11:28:23	03:22:45	.	16	9.7	16	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9364973
+9365017	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:30:16	00:00:32	.	1	0.0	.	m13	.
+9364976	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T11:39:26	03:19:41	.	16	9.8	16	m164	/sw/share/slurm/milou/uppmax_jobstats/m164/9364976
+9364972	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T11:40:57	03:40:46	node_type_overbooked:mem256GB:mem128GB	16	9.8	16	m141	/sw/share/slurm/milou/uppmax_jobstats/m141/9364972
+9364977	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T11:41:05	03:20:09	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m151	/sw/share/slurm/milou/uppmax_jobstats/m151/9364977
+9364996	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:42:16	00:00:32	.	1	0.0	.	m11	.
+9365015	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:42:16	00:00:32	.	1	0.0	.	m11	.
+9365012	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:42:21	00:00:37	.	1	0.7	.	m11	.
+9364980	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T11:46:35	03:19:10	node_type_overbooked:mem256GB:mem128GB	16	9.7	16	m138	/sw/share/slurm/milou/uppmax_jobstats/m138/9364980
+9364983	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:48:06	00:00:20	.	1	0.0	.	m11	.
+9364978	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T11:48:36	03:22:58	node_type_overbooked:mem512GB:mem128GB	16	9.7	16	m129	/sw/share/slurm/milou/uppmax_jobstats/m129/9364978
+9364974	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T11:49:13	03:37:09	.	16	9.8	16	m182	/sw/share/slurm/milou/uppmax_jobstats/m182/9364974
+9364981	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-22T11:50:15	03:21:45	.	16	9.7	16	m69	/sw/share/slurm/milou/uppmax_jobstats/m69/9364981
+9365008	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:52:14	00:00:28	.	1	0.0	.	m11	.
+9364988	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:52:17	00:00:31	.	1	0.0	.	m13	.
+9365018	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-22T11:52:32	00:00:46	.	1	0.5	.	m30	.
+9370905	milou	CANCELLED	yueh	b2010008	'_interactive'	2016-12-22T13:22:22	00:13:48	.	1	4.3	1	m72	/sw/share/slurm/milou/uppmax_jobstats/m72/9370905
+9371127	milou	COMPLETED	yueh	b2010008	'_interactive'	2016-12-22T14:12:26	00:00:21	.	1	0.0	.	m112	.
+9371129	milou	COMPLETED	yueh	b2010008	'_interactive'	2016-12-22T14:31:13	00:16:30	.	16	6.8	16	m77	/sw/share/slurm/milou/uppmax_jobstats/m77/9371129
+9371320	milou	CANCELLED	yueh	b2010008	'_interactive'	.	00:00:00	not_run	16	.	.	.
+9371325	milou	COMPLETED	yueh	b2010008	'_interactive'	2016-12-22T18:20:33	01:56:17	node_type_overbooked:mem256GB:mem128GB	16	6.9	16	m144	/sw/share/slurm/milou/uppmax_jobstats/m144/9371325
+9421574	milou	TIMEOUT	yueh	b2010008	'_interactive'	2016-12-27T15:23:44	03:00:07	.	1	0.3	1	m160	/sw/share/slurm/milou/uppmax_jobstats/m160/9421574
+9421879	milou	COMPLETED	yueh	b2010008	'pass_1.fast52fastq'	2016-12-27T17:21:35	01:34:03	.	1	0.0	1	m15	/sw/share/slurm/milou/uppmax_jobstats/m15/9421879
+9434731	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-29T08:50:05	00:00:43	.	16	0.0	.	m171	.
+9434732	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-29T08:50:16	00:00:54	.	4	0.0	.	m204	.
+9434733	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_rpkm_gene_table'	2016-12-29T08:50:16	00:00:54	.	4	0.0	.	m5	.
+9434735	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-29T08:52:20	00:02:01	.	2	0.0	.	m204	.
+9434740	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-29T08:52:20	00:02:01	.	2	0.0	.	m204	.
+9434737	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-29T08:52:20	00:02:01	.	2	0.0	.	m204	.
+9434739	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-29T08:52:20	00:02:01	.	2	0.0	.	m5	.
+9434734	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-29T08:52:21	00:02:02	.	2	0.0	.	m199	.
+9434738	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_quant_coverage_annotation_table'	2016-12-29T08:52:21	00:02:02	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:2:0,mem_overbooked:16:0	2	0.0	2	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9434738
+9434736	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-29T08:52:29	00:02:02	.	1	0.0	.	m198	.
+9434772	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2016-12-29T09:58:26	00:00:51	.	16	0.0	.	m205	.
+9434773	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2016-12-29T10:00:39	00:02:02	.	1	0.0	.	m158	.
+9504840	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_search'	2017-01-02T13:15:11	03:13:02	.	16	9.7	16	m157	/sw/share/slurm/milou/uppmax_jobstats/m157/9504840
+9504841	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2017-01-02T13:17:54	00:00:21	.	1	0.0	.	m45	.
+9519798	milou	COMPLETED	alneberg	b2010008	'snakemake_taxonomy_annotation_diamond_view_to_tab'	2017-01-02T14:34:57	00:00:28	.	1	0.0	.	m165	.
+9522203	milou	COMPLETED	alneberg	b2010008	'snakemake_concoct_cutup_10K'	2017-01-02T15:35:53	00:03:31	.	1	0.0	.	m41	.
+9522210	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522213	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522220	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522221	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522216	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522229	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522233	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522212	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522207	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522224	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522266	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522226	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522240	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522256	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522251	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522262	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522204	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_index'	.	00:00:00	not_run	0	.	.	.
+9522246	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522276	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522264	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522274	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522282	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522289	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522269	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522278	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522291	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522237	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522280	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522288	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522272	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9522295	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524102	milou	COMPLETED	alneberg	b2010008	'snakemake_concoct_cutup_10K'	2017-01-02T16:17:22	00:00:59	.	1	0.0	.	m165	.
+9524107	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524111	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524112	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524108	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524105	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524106	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524110	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524109	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524113	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524104	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524114	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524115	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524118	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524117	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524120	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524119	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524116	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524121	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524122	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524126	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524130	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524123	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524128	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524125	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524127	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524129	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524131	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524124	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524132	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524133	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524141	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524139	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524138	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524136	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_index'	.	00:00:00	not_run	0	.	.	.
+9524142	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524137	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524144	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524140	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524143	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524145	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524146	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524149	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524147	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524153	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524152	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524148	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524151	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524150	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524154	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524156	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524155	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524157	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524158	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524159	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524163	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524160	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524162	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524164	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524161	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524165	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524166	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_map'	.	00:00:00	not_run	0	.	.	.
+9524103	milou	CANCELLED	alneberg	b2010008	'snakemake_bowtie2_index'	2017-01-02T16:30:32	00:12:57	.	1	1.5	1	m165	/sw/share/slurm/milou/uppmax_jobstats/m165/9524103
+9526624	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_index'	2017-01-02T17:25:48	00:22:03	.	1	1.5	1	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9526624
+9527977	milou	COMPLETED	alneberg	b2010008	'_interactive'	2017-01-02T17:51:35	00:23:11	overbooked:1%,!!half_overbooked,!!severely_overbooked,cores_overbooked:1:0	1	0.1	1	m1	/sw/share/slurm/milou/uppmax_jobstats/m1/9527977
+9526650	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:48	00:31:30	.	4	1.4	4	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9526650
+9526694	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:48	00:31:30	.	4	1.4	4	m51	/sw/share/slurm/milou/uppmax_jobstats/m51/9526694
+9526645	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:49	00:31:31	.	4	1.4	4	m61	/sw/share/slurm/milou/uppmax_jobstats/m61/9526645
+9526666	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:49	00:31:31	.	4	1.4	4	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9526666
+9526730	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:49	00:31:31	.	4	1.4	4	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9526730
+9526672	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:50	00:31:32	.	4	1.4	4	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9526672
+9526636	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:51	00:31:33	.	4	1.4	4	m207	/sw/share/slurm/milou/uppmax_jobstats/m207/9526636
+9526629	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:51	00:31:33	.	4	1.4	4	m205	/sw/share/slurm/milou/uppmax_jobstats/m205/9526629
+9526762	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:52	00:31:34	.	4	1.4	4	m54	/sw/share/slurm/milou/uppmax_jobstats/m54/9526762
+9526681	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:53	00:31:35	.	4	1.4	4	m70	/sw/share/slurm/milou/uppmax_jobstats/m70/9526681
+9526647	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:53	00:31:35	.	4	1.4	4	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9526647
+9526715	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:53	00:31:35	.	4	1.4	4	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9526715
+9526705	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:53	00:31:35	.	4	1.4	4	m51	/sw/share/slurm/milou/uppmax_jobstats/m51/9526705
+9526724	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:55	00:31:37	.	4	1.4	4	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9526724
+9526710	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:57	00:31:39	.	4	1.4	4	m51	/sw/share/slurm/milou/uppmax_jobstats/m51/9526710
+9526679	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:57	00:31:39	.	4	1.4	4	m70	/sw/share/slurm/milou/uppmax_jobstats/m70/9526679
+9526659	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:00:58	00:31:40	.	4	1.4	4	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9526659
+9526625	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:01:00	00:31:42	.	4	1.4	4	m205	/sw/share/slurm/milou/uppmax_jobstats/m205/9526625
+9526634	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:01:01	00:31:43	.	4	1.4	4	m207	/sw/share/slurm/milou/uppmax_jobstats/m207/9526634
+9526655	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:01:02	00:31:44	.	4	1.4	4	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9526655
+9526718	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:01:02	00:31:44	.	4	1.4	4	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9526718
+9526770	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:01:02	00:31:44	.	4	1.4	4	m54	/sw/share/slurm/milou/uppmax_jobstats/m54/9526770
+9526700	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:01:06	00:31:48	.	4	1.4	4	m51	/sw/share/slurm/milou/uppmax_jobstats/m51/9526700
+9526687	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:01:10	00:31:52	.	4	1.4	4	m70	/sw/share/slurm/milou/uppmax_jobstats/m70/9526687
+9526638	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:02:06	00:32:35	.	4	1.4	4	m57	/sw/share/slurm/milou/uppmax_jobstats/m57/9526638
+9526641	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:02:11	00:32:40	.	4	1.4	4	m57	/sw/share/slurm/milou/uppmax_jobstats/m57/9526641
+9526918	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:02:23	00:00:50	.	16	0.0	.	m173	.
+9526912	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:02:24	00:00:51	.	16	0.0	.	m171	.
+9526902	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:02:24	00:00:51	.	16	0.0	.	m170	.
+9526889	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:02:24	00:00:51	.	16	0.0	.	m169	.
+9526793	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:04:19	00:02:22	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m174	/sw/share/slurm/milou/uppmax_jobstats/m174/9526793
+9526819	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:04:22	00:02:25	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m175	/sw/share/slurm/milou/uppmax_jobstats/m175/9526819
+9526845	milou	COMPLETED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:04:55	00:03:58	.	16	0.0	.	m38	.
+9526893	milou	COMPLETED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:00	00:04:03	.	16	0.0	.	m39	.
+9526800	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:04	00:02:07	.	16	0.0	.	m169	.
+9526867	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:12	00:02:15	.	16	0.0	.	m170	.
+9526833	milou	COMPLETED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:29	00:03:56	.	16	0.0	.	m40	.
+9526878	milou	COMPLETED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:30	00:03:57	.	16	0.0	.	m42	.
+9526777	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:32	00:01:35	.	16	0.0	.	m177	.
+9526853	milou	COMPLETED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:42	00:04:09	.	16	0.0	.	m41	.
+9526806	milou	COMPLETED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:43	00:04:46	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m194	/sw/share/slurm/milou/uppmax_jobstats/m194/9526806
+9526884	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:43	00:02:10	.	16	0.0	.	m171	.
+9526919	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:05:58	00:02:25	.	16	0.0	.	m173	.
+9526860	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:06:09	00:02:12	.	16	0.0	.	m178	.
+9526736	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:06:13	00:36:55	.	4	1.4	4	m53	/sw/share/slurm/milou/uppmax_jobstats/m53/9526736
+9526756	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:06:20	00:37:02	.	4	1.4	4	m53	/sw/share/slurm/milou/uppmax_jobstats/m53/9526756
+9526750	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:06:33	00:37:15	.	4	1.4	4	m53	/sw/share/slurm/milou/uppmax_jobstats/m53/9526750
+9526743	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-02T18:06:43	00:37:25	.	4	1.4	4	m53	/sw/share/slurm/milou/uppmax_jobstats/m53/9526743
+9526897	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:06:49	00:01:16	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m52	/sw/share/slurm/milou/uppmax_jobstats/m52/9526897
+9526874	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:07:05	00:01:32	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m51	/sw/share/slurm/milou/uppmax_jobstats/m51/9526874
+9526787	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:07:51	00:02:18	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m38	/sw/share/slurm/milou/uppmax_jobstats/m38/9526787
+9526826	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:08:11	00:02:38	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m39	/sw/share/slurm/milou/uppmax_jobstats/m39/9526826
+9526840	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:08:43	00:02:46	.	16	0.0	.	m40	.
+9526847	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:08:47	00:02:50	.	16	0.0	.	m42	.
+9526905	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:09:24	00:03:51	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m169	/sw/share/slurm/milou/uppmax_jobstats/m169/9526905
+9526924	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:09:24	00:03:51	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m170	/sw/share/slurm/milou/uppmax_jobstats/m170/9526924
+9526813	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:09:49	00:02:51	.	16	0.0	.	m53	.
+9526780	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:10:58	00:04:00	.	16	0.0	.	m41	.
+9526915	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:11:09	00:04:11	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m171	/sw/share/slurm/milou/uppmax_jobstats/m171/9526915
+9526909	milou	FAILED	alneberg	b2010008	'snakemake_bam_sort'	2017-01-02T18:11:15	00:04:17	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:16:0,mem_overbooked:126:0	16	0.0	16	m194	/sw/share/slurm/milou/uppmax_jobstats/m194/9526909
+9528245	milou	COMPLETED	yueh	b2010008	'_interactive'	2017-01-02T18:47:32	00:50:34	.	16	33.1	16	m37	/sw/share/slurm/milou/uppmax_jobstats/m37/9528245
+9530203	milou	COMPLETED	alneberg	b2010008	'_interactive'	2017-01-03T16:24:54	00:07:37	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:1:0	1	0.0	1	m162	/sw/share/slurm/milou/uppmax_jobstats/m162/9530203
+9530597	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530595	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530600	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530598	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530601	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530593	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530594	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530599	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530596	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530602	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530603	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530609	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530606	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530605	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530611	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530607	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530608	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530604	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530612	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530613	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530610	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530614	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530619	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530620	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530615	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530616	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530618	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530622	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530621	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530624	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530623	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530617	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530627	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530626	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530633	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530632	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530629	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530625	milou	CANCELLED	alneberg	b2010008	'snakemake_fastqc'	.	00:00:00	not_run	0	.	.	.
+9530628	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530631	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530634	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530635	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530630	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530636	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530637	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530638	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530639	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530641	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9530640	milou	CANCELLED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	.	00:00:00	not_run	0	.	.	.
+9531249	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:00:32	00:06:42	.	1	0.1	1	m164	/sw/share/slurm/milou/uppmax_jobstats/m164/9531249
+9531248	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:00:51	00:07:01	.	1	0.1	1	m164	/sw/share/slurm/milou/uppmax_jobstats/m164/9531248
+9531250	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:01:00	00:05:00	.	1	0.1	1	m19	/sw/share/slurm/milou/uppmax_jobstats/m19/9531250
+9531251	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:04:00	00:05:52	.	1	0.1	1	m165	/sw/share/slurm/milou/uppmax_jobstats/m165/9531251
+9531254	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:08:07	00:05:25	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531254
+9531252	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:09:03	00:06:21	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531252
+9531253	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:09:49	00:07:07	.	1	0.2	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531253
+9531260	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:14:41	00:05:06	.	1	0.2	1	m203	/sw/share/slurm/milou/uppmax_jobstats/m203/9531260
+9531368	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_index'	2017-01-04T17:16:40	00:22:48	.	1	1.5	1	m119	/sw/share/slurm/milou/uppmax_jobstats/m119/9531368
+9531259	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:16:48	00:07:13	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531259
+9531247	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:19:40	00:23:40	.	1	0.0	1	m19	/sw/share/slurm/milou/uppmax_jobstats/m19/9531247
+9531262	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:19:46	00:07:51	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531262
+9531263	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:20:05	00:08:10	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531263
+9531265	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:24:11	00:05:03	.	1	0.2	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531265
+9531268	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:25:32	00:04:00	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531268
+9531272	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:25:48	00:04:16	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531272
+9531273	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:26:09	00:04:37	.	1	0.1	1	m164	/sw/share/slurm/milou/uppmax_jobstats/m164/9531273
+9531256	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:28:26	00:25:44	.	1	0.0	1	m164	/sw/share/slurm/milou/uppmax_jobstats/m164/9531256
+9531255	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:31:19	00:28:37	.	1	0.0	1	m164	/sw/share/slurm/milou/uppmax_jobstats/m164/9531255
+9531278	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:32:05	00:05:48	.	1	0.2	1	m7	/sw/share/slurm/milou/uppmax_jobstats/m7/9531278
+9531281	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:33:10	00:04:30	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531281
+9531282	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:33:14	00:04:34	.	1	0.2	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531282
+9531257	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:33:16	00:28:17	.	1	0.0	1	m165	/sw/share/slurm/milou/uppmax_jobstats/m165/9531257
+9531284	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:36:13	00:05:10	.	1	0.1	1	m6	/sw/share/slurm/milou/uppmax_jobstats/m6/9531284
+9531291	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:37:41	00:04:18	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531291
+9531286	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:38:33	00:05:10	.	1	0.2	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531286
+9531261	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:39:04	00:27:09	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531261
+9531294	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:39:54	00:04:13	.	1	0.1	.	m7	.
+9531297	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:41:51	00:03:51	.	1	0.1	.	m99	.
+9531258	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:43:41	00:36:25	.	1	0.0	1	m19	/sw/share/slurm/milou/uppmax_jobstats/m19/9531258
+9531298	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:45:18	00:05:01	.	1	0.2	.	m7	.
+9531264	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:46:27	00:29:43	.	1	0.0	1	m7	/sw/share/slurm/milou/uppmax_jobstats/m7/9531264
+9531306	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:46:36	00:04:02	.	1	0.2	1	m73	/sw/share/slurm/milou/uppmax_jobstats/m73/9531306
+9531304	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:46:39	00:04:05	.	1	0.1	1	m73	/sw/share/slurm/milou/uppmax_jobstats/m73/9531304
+9531299	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:47:18	00:04:44	.	1	0.1	1	m73	/sw/share/slurm/milou/uppmax_jobstats/m73/9531299
+9531300	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:47:33	00:04:59	.	1	0.1	1	m73	/sw/share/slurm/milou/uppmax_jobstats/m73/9531300
+9531301	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:47:43	00:05:09	.	1	0.1	1	m73	/sw/share/slurm/milou/uppmax_jobstats/m73/9531301
+9531302	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T17:48:19	00:05:45	.	1	0.2	1	m73	/sw/share/slurm/milou/uppmax_jobstats/m73/9531302
+9531266	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:52:25	00:26:09	.	1	0.0	1	m19	/sw/share/slurm/milou/uppmax_jobstats/m19/9531266
+9531267	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:54:54	00:26:14	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531267
+9531274	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:56:51	00:25:48	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531274
+9531270	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:58:10	00:29:30	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531270
+9531269	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:58:16	00:29:36	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531269
+9531283	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:59:20	00:25:57	.	1	0.0	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9531283
+9531275	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T17:59:56	00:28:53	.	1	0.0	1	m115	/sw/share/slurm/milou/uppmax_jobstats/m115/9531275
+9531280	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:01:47	00:28:24	.	1	0.0	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9531280
+9531271	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:02:14	00:33:34	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531271
+9531292	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:04:05	00:26:06	.	1	0.0	1	m208	/sw/share/slurm/milou/uppmax_jobstats/m208/9531292
+9531293	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:04:36	00:24:19	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531293
+9531276	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:04:55	00:31:32	.	1	0.0	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9531276
+9531277	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:04:57	00:31:34	.	1	0.0	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9531277
+9531279	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:05:07	00:31:44	.	1	0.0	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9531279
+9531285	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:06:58	00:33:35	.	1	0.0	1	m168	/sw/share/slurm/milou/uppmax_jobstats/m168/9531285
+9531295	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:07:49	00:25:15	.	1	0.0	1	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9531295
+9531290	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:08:54	00:30:55	.	1	0.0	1	m208	/sw/share/slurm/milou/uppmax_jobstats/m208/9531290
+9531288	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:09:05	00:31:06	.	1	0.0	1	m208	/sw/share/slurm/milou/uppmax_jobstats/m208/9531288
+9531289	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:10:42	00:32:43	.	1	0.0	1	m208	/sw/share/slurm/milou/uppmax_jobstats/m208/9531289
+9531296	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:11:23	00:28:49	.	1	0.0	1	m114	/sw/share/slurm/milou/uppmax_jobstats/m114/9531296
+9531303	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:11:54	00:29:20	.	1	0.0	1	m208	/sw/share/slurm/milou/uppmax_jobstats/m208/9531303
+9531305	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:12:47	00:28:00	.	1	0.0	1	m18	/sw/share/slurm/milou/uppmax_jobstats/m18/9531305
+9531287	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_trim_fixed'	2017-01-04T18:13:04	00:37:23	.	1	0.0	1	m8	/sw/share/slurm/milou/uppmax_jobstats/m8/9531287
+9531360	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T19:08:30	01:17:00	.	4	1.4	4	m73	/sw/share/slurm/milou/uppmax_jobstats/m73/9531360
+9531317	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:12:28	01:07:20	.	1	0.0	1	m59	/sw/share/slurm/milou/uppmax_jobstats/m59/9531317
+9531313	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:12:32	01:18:40	.	1	0.0	1	m85	/sw/share/slurm/milou/uppmax_jobstats/m85/9531313
+9531315	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:15:04	01:14:27	.	1	0.0	1	m20	/sw/share/slurm/milou/uppmax_jobstats/m20/9531315
+9531853	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:18:11	00:04:41	.	1	0.1	1	m163	/sw/share/slurm/milou/uppmax_jobstats/m163/9531853
+9531866	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:18:15	00:04:45	.	1	0.2	.	m203	.
+9531324	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:18:24	00:04:54	.	1	0.1	1	m163	/sw/share/slurm/milou/uppmax_jobstats/m163/9531324
+9531322	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:18:49	00:05:19	.	1	0.1	1	m163	/sw/share/slurm/milou/uppmax_jobstats/m163/9531322
+9531877	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:20:47	00:05:06	.	1	0.2	1	m83	/sw/share/slurm/milou/uppmax_jobstats/m83/9531877
+9531910	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:20:52	00:05:11	.	1	0.1	1	m83	/sw/share/slurm/milou/uppmax_jobstats/m83/9531910
+9531307	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:22:53	01:13:20	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531307
+9531309	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:23:51	01:18:43	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531309
+9531879	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:27:54	00:03:51	.	1	0.1	.	m160	.
+9531875	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:27:56	00:03:53	.	1	0.2	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9531875
+9531329	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:28:02	00:03:59	.	1	0.1	1	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9531329
+9531326	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:28:09	00:04:06	.	1	0.2	1	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9531326
+9531316	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:28:42	01:28:05	.	1	0.0	1	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531316
+9531861	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:34:25	00:04:12	.	1	0.2	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9531861
+9531827	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:34:30	00:04:17	.	1	0.2	1	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9531827
+9531314	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:35:15	01:21:22	.	1	0.0	1	m73	/sw/share/slurm/milou/uppmax_jobstats/m73/9531314
+9531361	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T19:35:34	01:24:00	.	4	1.4	4	m208	/sw/share/slurm/milou/uppmax_jobstats/m208/9531361
+9531321	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:36:11	01:24:27	.	1	0.0	1	m207	/sw/share/slurm/milou/uppmax_jobstats/m207/9531321
+9531320	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:36:50	01:27:17	.	1	0.0	1	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9531320
+9531330	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:40:28	00:04:05	.	1	0.2	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9531330
+9531834	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:40:34	00:04:11	.	1	0.2	1	m160	/sw/share/slurm/milou/uppmax_jobstats/m160/9531834
+9531327	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:40:39	00:04:16	.	1	0.2	.	m58	.
+9531908	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:41:09	00:04:46	.	1	0.2	1	m196	/sw/share/slurm/milou/uppmax_jobstats/m196/9531908
+9531318	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:41:15	01:31:42	.	1	0.0	1	m199	/sw/share/slurm/milou/uppmax_jobstats/m199/9531318
+9531308	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:41:27	01:31:54	.	1	0.0	1	m39	/sw/share/slurm/milou/uppmax_jobstats/m39/9531308
+9531310	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:42:27	01:28:34	.	1	0.0	1	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9531310
+9531319	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:42:28	01:30:44	.	1	0.0	1	m114	/sw/share/slurm/milou/uppmax_jobstats/m114/9531319
+9531835	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:42:54	00:04:28	.	1	0.2	1	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9531835
+9531323	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:42:58	00:04:32	.	1	0.2	1	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9531323
+9531859	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:46:41	00:04:06	.	1	0.2	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9531859
+9531865	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:46:54	00:04:19	.	1	0.2	1	m160	/sw/share/slurm/milou/uppmax_jobstats/m160/9531865
+9531923	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:46:55	00:04:20	.	1	0.1	1	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9531923
+9531880	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:47:01	00:04:26	.	1	0.2	1	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9531880
+9531904	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:47:17	00:04:42	.	1	0.2	1	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9531904
+9531332	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:47:32	00:04:57	.	1	0.2	1	m39	/sw/share/slurm/milou/uppmax_jobstats/m39/9531332
+9531921	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:49:20	00:04:41	.	1	0.2	1	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9531921
+9531868	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:49:25	00:04:46	.	1	0.1	1	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9531868
+9531312	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T19:49:40	01:40:07	.	1	0.0	1	m199	/sw/share/slurm/milou/uppmax_jobstats/m199/9531312
+9531906	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:55:46	00:04:55	.	1	0.2	1	m156	/sw/share/slurm/milou/uppmax_jobstats/m156/9531906
+9531334	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T19:55:52	00:05:01	.	1	0.2	1	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9531334
+9531343	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T19:57:10	00:43:48	overbooked:19%,!!half_overbooked,!!severely_overbooked,node_type_overbooked:mem256GB:mem128GB,cores_overbooked:16:3,mem_overbooked:252.2:21,core_mem_overbooked:47.3:21	16	21.0	16	m145	/sw/share/slurm/milou/uppmax_jobstats/m145/9531343
+9531336	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:02:15	00:48:53	overbooked:31%,!!half_overbooked,node_type_overbooked:mem256GB:mem128GB,cores_overbooked:16:5,mem_overbooked:252.2:23.6,core_mem_overbooked:78.8:23.6	16	23.6	16	m144	/sw/share/slurm/milou/uppmax_jobstats/m144/9531336
+9531870	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:02:50	00:03:45	.	1	0.2	1	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9531870
+9531852	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:03:15	00:04:10	.	1	0.1	1	m39	/sw/share/slurm/milou/uppmax_jobstats/m39/9531852
+9531311	milou	COMPLETED	alneberg	b2010008	'snakemake_cutadapt_pe'	2017-01-04T20:03:56	01:50:03	.	1	0.0	1	m63	/sw/share/slurm/milou/uppmax_jobstats/m63/9531311
+9531340	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:04:47	00:49:27	overbooked:38%,!!half_overbooked,node_type_overbooked:mem512GB:mem128GB,cores_overbooked:16:6,mem_overbooked:504.7:23.3,core_mem_overbooked:189.3:23.3	16	23.3	16	m122	/sw/share/slurm/milou/uppmax_jobstats/m122/9531340
+9531915	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:07:11	00:03:58	.	1	0.2	.	m160	.
+9531905	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:07:14	00:04:01	.	1	0.2	.	m156	.
+9531671	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:09:35	00:04:18	.	1	0.1	1	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9531671
+9531919	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:09:37	00:04:20	.	1	0.2	1	m58	/sw/share/slurm/milou/uppmax_jobstats/m58/9531919
+9531344	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:10:39	00:47:19	overbooked:31%,!!half_overbooked,node_type_overbooked:mem512GB:mem128GB,cores_overbooked:16:5,mem_overbooked:504.7:22.5,core_mem_overbooked:157.7:22.5	16	22.5	16	m125	/sw/share/slurm/milou/uppmax_jobstats/m125/9531344
+9531878	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:10:45	00:05:28	.	1	0.2	1	m63	/sw/share/slurm/milou/uppmax_jobstats/m63/9531878
+9531872	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:10:48	00:05:31	.	1	0.2	1	m62	/sw/share/slurm/milou/uppmax_jobstats/m62/9531872
+9531328	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:11:11	00:47:08	overbooked:19%,!!half_overbooked,!!severely_overbooked,node_type_overbooked:mem512GB:mem128GB,cores_overbooked:16:3,mem_overbooked:504.7:22.9,core_mem_overbooked:94.6:22.9	16	22.9	16	m136	/sw/share/slurm/milou/uppmax_jobstats/m136/9531328
+9531922	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:15:33	00:04:05	.	1	0.2	.	m63	.
+9531849	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:15:39	00:04:11	.	1	0.1	.	m60	.
+9531844	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:15:46	00:04:18	.	1	0.1	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531844
+9531837	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:16:02	00:04:34	.	1	0.2	1	m99	/sw/share/slurm/milou/uppmax_jobstats/m99/9531837
+9531337	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:23:38	00:53:25	overbooked:12%,!!half_overbooked,!!severely_overbooked,node_type_overbooked:mem256GB:mem128GB,cores_overbooked:16:2,mem_overbooked:252.2:25.5	16	25.5	16	m139	/sw/share/slurm/milou/uppmax_jobstats/m139/9531337
+9531886	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:28:26	00:04:28	.	1	0.2	1	m60	/sw/share/slurm/milou/uppmax_jobstats/m60/9531886
+9531819	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:28:33	00:04:35	.	1	0.2	1	m63	/sw/share/slurm/milou/uppmax_jobstats/m63/9531819
+9531325	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:35:34	00:52:59	overbooked:38%,!!half_overbooked,node_type_overbooked:mem512GB:mem128GB,cores_overbooked:16:6,mem_overbooked:504.7:25,core_mem_overbooked:189.3:25	16	25.0	16	m123	/sw/share/slurm/milou/uppmax_jobstats/m123/9531325
+9531331	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:42:29	00:55:09	overbooked:25%,!!half_overbooked,node_type_overbooked:mem256GB:mem128GB,cores_overbooked:16:4,mem_overbooked:252.2:25.7,core_mem_overbooked:63:25.7	16	25.7	16	m150	/sw/share/slurm/milou/uppmax_jobstats/m150/9531331
+9531673	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T20:44:50	00:04:48	.	1	0.1	1	m36	/sw/share/slurm/milou/uppmax_jobstats/m36/9531673
+9531365	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T20:49:33	01:26:47	.	4	1.5	4	m18	/sw/share/slurm/milou/uppmax_jobstats/m18/9531365
+9531364	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T20:49:57	01:27:11	.	4	1.5	4	m18	/sw/share/slurm/milou/uppmax_jobstats/m18/9531364
+9531366	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T20:49:59	01:27:12	.	4	1.4	4	m115	/sw/share/slurm/milou/uppmax_jobstats/m115/9531366
+9531363	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T20:50:17	01:28:43	.	4	1.5	4	m83	/sw/share/slurm/milou/uppmax_jobstats/m83/9531363
+9531367	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T20:51:47	01:28:32	.	4	1.5	4	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9531367
+9531362	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T20:51:47	01:30:21	.	4	1.5	4	m9	/sw/share/slurm/milou/uppmax_jobstats/m9/9531362
+9532346	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T20:51:47	01:23:37	.	4	1.6	4	m22	/sw/share/slurm/milou/uppmax_jobstats/m22/9532346
+9531342	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:55:08	00:56:48	overbooked:12%,!!half_overbooked,!!severely_overbooked,node_type_overbooked:mem256GB:mem128GB,cores_overbooked:16:2,mem_overbooked:252.2:27	16	27.0	16	m145	/sw/share/slurm/milou/uppmax_jobstats/m145/9531342
+9531333	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:55:57	00:54:48	overbooked:12%,!!half_overbooked,!!severely_overbooked,node_type_overbooked:mem256GB:mem128GB,cores_overbooked:16:2,mem_overbooked:252.2:26.7	16	26.7	16	m152	/sw/share/slurm/milou/uppmax_jobstats/m152/9531333
+9531341	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T20:58:21	00:57:01	overbooked:38%,!!half_overbooked,node_type_overbooked:mem256GB:mem128GB,cores_overbooked:16:6,mem_overbooked:252.2:28.1,core_mem_overbooked:94.6:28.1	16	28.1	16	m143	/sw/share/slurm/milou/uppmax_jobstats/m143/9531341
+9531338	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T21:01:53	00:58:41	overbooked:12%,!!half_overbooked,!!severely_overbooked,node_type_overbooked:mem256GB:mem128GB,cores_overbooked:16:2,mem_overbooked:252.2:28.1	16	28.1	16	m144	/sw/share/slurm/milou/uppmax_jobstats/m144/9531338
+9531345	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T21:03:47	00:58:30	overbooked:19%,!!half_overbooked,!!severely_overbooked,node_type_overbooked:mem512GB:mem128GB,cores_overbooked:16:3,mem_overbooked:504.7:25.2,core_mem_overbooked:94.6:25.2	16	25.2	16	m122	/sw/share/slurm/milou/uppmax_jobstats/m122/9531345
+9531335	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T21:08:49	01:00:28	overbooked:12%,!!half_overbooked,!!severely_overbooked,node_type_overbooked:mem256GB:mem128GB,cores_overbooked:16:2,mem_overbooked:252.2:30.3	16	30.3	16	m153	/sw/share/slurm/milou/uppmax_jobstats/m153/9531335
+9531339	milou	COMPLETED	alneberg	b2010008	'snakemake_fastuniq'	2017-01-04T21:18:41	01:07:20	overbooked:25%,!!half_overbooked,node_type_overbooked:mem512GB:mem128GB,cores_overbooked:16:4,mem_overbooked:504.7:33.1,core_mem_overbooked:126.2:33.1	16	33.1	16	m125	/sw/share/slurm/milou/uppmax_jobstats/m125/9531339
+9531882	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T21:22:27	00:04:35	.	1	0.2	1	m12	/sw/share/slurm/milou/uppmax_jobstats/m12/9531882
+9531854	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T21:28:33	00:05:14	.	1	0.2	1	m166	/sw/share/slurm/milou/uppmax_jobstats/m166/9531854
+9531817	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-04T21:47:49	02:23:46	.	4	1.6	4	m100	/sw/share/slurm/milou/uppmax_jobstats/m100/9531817
+9531801	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T21:54:18	00:05:33	.	1	0.2	1	m61	/sw/share/slurm/milou/uppmax_jobstats/m61/9531801
+9531847	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T21:54:25	00:05:40	.	1	0.1	1	m61	/sw/share/slurm/milou/uppmax_jobstats/m61/9531847
+9531672	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T21:54:25	00:05:40	.	1	0.1	1	m61	/sw/share/slurm/milou/uppmax_jobstats/m61/9531672
+9531916	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T21:54:26	00:05:41	.	1	0.1	1	m61	/sw/share/slurm/milou/uppmax_jobstats/m61/9531916
+9531876	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:00:09	00:06:00	.	1	0.1	1	m103	/sw/share/slurm/milou/uppmax_jobstats/m103/9531876
+9531838	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:00:15	00:06:06	.	1	0.2	1	m103	/sw/share/slurm/milou/uppmax_jobstats/m103/9531838
+9531803	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:00:18	00:06:09	.	1	0.1	1	m103	/sw/share/slurm/milou/uppmax_jobstats/m103/9531803
+9531896	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:00:31	00:06:22	.	1	0.1	1	m103	/sw/share/slurm/milou/uppmax_jobstats/m103/9531896
+9531791	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:04:01	00:02:03	.	1	0.0	.	m61	.
+9531826	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:04:01	00:02:03	.	1	0.0	.	m19	.
+9531816	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:04:01	00:02:03	overbooked:0%,!!half_overbooked,!!severely_overbooked,cores_overbooked:1:0	1	0.0	1	m208	/sw/share/slurm/milou/uppmax_jobstats/m208/9531816
+9531873	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:04:08	00:02:10	.	1	0.0	.	m22	.
+9531920	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:05:40	00:06:16	.	1	0.1	1	m112	/sw/share/slurm/milou/uppmax_jobstats/m112/9531920
+9531800	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:08:04	00:06:06	.	1	0.2	1	m10	/sw/share/slurm/milou/uppmax_jobstats/m10/9531800
+9531825	milou	COMPLETED	alneberg	b2010008	'snakemake_fastqc'	2017-01-04T22:08:12	00:06:14	.	1	0.1	1	m10	/sw/share/slurm/milou/uppmax_jobstats/m10/9531825
+9532404	milou	COMPLETED	alneberg	b2010008	'snakemake_bowtie2_map'	2017-01-05T00:33:18	04:56:55	.	4	1.6	4	m208	/sw/share/slurm/milou/uppmax_jobstats/m208/9532404

@@ -1,0 +1,31 @@
+Cluster	Domain	Phylum	Class	Order	Family	Genus	Species		Paper name	
+BACL2	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales					acI	
+BACL4	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales					acI	
+BACL15	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales					acI	
+BACL6	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales					acIV	
+BACL17	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales					acIV	
+BACL19	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales					acIV	
+BACL27	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales					acIV	
+BACL25	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales					Luna	
+BACL28	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales					Luna	
+BACL10	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae				Rhodobacter	We call it Rhodobacteraceae in figure 5
+BACL5	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Pelagibacteraceae				SAR11	
+BACL20	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Pelagibacteraceae				SAR11	
+BACL7	Bacteria	Bacteriodetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae				Cryomorphaceae	
+BACL11	Bacteria	Bacteriodetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae				Cryomorphaceae	
+BACL18	Bacteria	Bacteriodetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae				Cryomorphaceae	
+BACL23	Bacteria	Bacteriodetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae				Cryomorphaceae	
+BACL8	Bacteria	Bacteriodetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae				Flavobacteriaceae	
+BACL21	Bacteria	Bacteriodetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae				Flavobacteriaceae	
+BACL22	Bacteria	Bacteriodetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae				Flavobacteriaceae	
+BACL29	Bacteria	Bacteriodetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae				Flavobacteriaceae	
+BACL12	Bacteria	Bacteriodetes	Sphingobacteriia	Sphingobacteriales					Sphingobacteriales	
+BACL14	Bacteria	Proteobacteria	Betaproteobacteria	Methylophilales	Methylophilaceae				OM43	
+BACL30	Bacteria	Cyanobacteria	Synechococcophycideae	Synechococcales	Synechococcaceae				Cyanobium	
+BACL3	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae				OM182	
+BACL1	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae				SAR86	
+BACL16	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae				SAR92	
+BACL26	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae				SAR92	
+BACL13	Archaea	Thaumarchaeota							Nitrosopumilaceae	
+BACL9	Bacteria	Verrucomicrobia	[Methylacidiphilae]	Methylacidiphilales	LD19				LD19	
+BACL24	Bacteria	Verrucomicrobia	Optitutae	Opitutales	Optitutaceae				Optitutaceae	

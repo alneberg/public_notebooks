@@ -1,0 +1,1066 @@
+	class	kingdom	order	phylum
+OTU_1	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_10	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_100	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_1000	Phycisphaerae	Bacteria	Phycisphaerales	Planctomycetes
+OTU_1001	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1002	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_1005	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_1006	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_1009	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_101	Armatimonadia	Bacteria	Armatimonadales	Armatimonadetes
+OTU_1010	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_1012	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_1013	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_1014				
+OTU_1017	Acidobacteriia	Bacteria	Acidobacteriales	Acidobacteria
+OTU_1019	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_102	Planctomycetia	Bacteria	Gemmatales	Planctomycetes
+OTU_1020	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_1025	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1027	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_1029				
+OTU_103	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_1030	OM190	Bacteria	agg27	Planctomycetes
+OTU_1031	Gammaproteobacteria	Bacteria	Legionellales	Proteobacteria
+OTU_1033	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1034	Holophagae	Bacteria	Holophagales	Acidobacteria
+OTU_1035	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_1037	Deltaproteobacteria	Bacteria	Myxococcales	Proteobacteria
+OTU_104	Betaproteobacteria	Bacteria		Proteobacteria
+OTU_1044				
+OTU_1046	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_1047	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1049	Deltaproteobacteria	Bacteria	Bdellovibrionales	Proteobacteria
+OTU_105	Alphaproteobacteria	Bacteria	Kiloniellales	Proteobacteria
+OTU_1051				
+OTU_1052	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_1054	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1055	Acidobacteria-6	Bacteria	iii1-15	Acidobacteria
+OTU_1056	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_1058	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_106	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_1061	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_1062	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1064	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_1067	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_1069	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_107	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_1070	Planctomycetia	Bacteria	Gemmatales	Planctomycetes
+OTU_1071	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_1072				
+OTU_1075	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_1076	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_108	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_1080	SC72	Bacteria	WCHB1-15	WS6
+OTU_1082	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1083	Deltaproteobacteria	Bacteria	Desulfuromonadales	Proteobacteria
+OTU_1084	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1089	Gammaproteobacteria	Bacteria		Proteobacteria
+OTU_109	Nostocophycideae	Bacteria	Nostocales	Cyanobacteria
+OTU_1093	Bacteroidia	Bacteria	Bacteroidales	Bacteroidetes
+OTU_1094	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_1097	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_1098	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_11	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_110	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_1100	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_1101	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_1102	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_1104	Planctomycetia	Bacteria	Gemmatales	Planctomycetes
+OTU_1106				
+OTU_1107	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_1109	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_111	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_1110	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_1114	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_1115	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_1116	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_112	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_1121	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_1122	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_1124	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1125	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_1126				
+OTU_1127	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1128	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1129	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_113	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_1133	Betaproteobacteria	Bacteria	Procabacteriales	Proteobacteria
+OTU_1134	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1135	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_1136	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1137	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_1138				
+OTU_114	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1140				
+OTU_1142	Gammaproteobacteria	Bacteria	Enterobacteriales	Proteobacteria
+OTU_1144	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1147	Betaproteobacteria	Bacteria	Neisseriales	Proteobacteria
+OTU_1148	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_115	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1150				
+OTU_1153	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_1154	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_1156	PBS-25	Bacteria		OP3
+OTU_1157	Solibacteres	Bacteria	Solibacterales	Acidobacteria
+OTU_1158				
+OTU_1159	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_116	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1160	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_1162	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_1163	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_1165	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_1167	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_1168	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_117	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_1170	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_1171				
+OTU_1174	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_1176	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_1179	Planctomycetia	Bacteria	Planctomycetales	Planctomycetes
+OTU_118				
+OTU_1180	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_1182	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_1183	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_1187	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1189	Betaproteobacteria	Bacteria	Rhodocyclales	Proteobacteria
+OTU_119	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_1190	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_1191	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_1192	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1194	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1195	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1196	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_1197	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_1199	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_12	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_120	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_1203				
+OTU_1204	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1205	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1206	Spirochaetes	Bacteria	Spirochaetales	Spirochaetes
+OTU_1207	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_1209				
+OTU_121	Verrucomicrobiae	Bacteria	Verrucomicrobiales	Verrucomicrobia
+OTU_1212	[Pedosphaerae]	Bacteria		Verrucomicrobia
+OTU_1214	Betaproteobacteria	Bacteria		Proteobacteria
+OTU_1216	Deltaproteobacteria	Bacteria	Bdellovibrionales	Proteobacteria
+OTU_1217	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_1218	Chlamydiia	Bacteria	Chlamydiales	Chlamydiae
+OTU_122				
+OTU_1220	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_1221				
+OTU_1224	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_1226	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_1227	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_1228	Betaproteobacteria	Bacteria		Proteobacteria
+OTU_1229	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_123	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_1230	Deltaproteobacteria	Bacteria	Myxococcales	Proteobacteria
+OTU_1231	Gammaproteobacteria	Bacteria	Aeromonadales	Proteobacteria
+OTU_1234	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_1236	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_1237	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_1238	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_124	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_1240	Bacteroidia	Bacteria	Bacteroidales	Bacteroidetes
+OTU_1241	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_1242	Betaproteobacteria	Bacteria	Neisseriales	Proteobacteria
+OTU_1244	Bacteroidia	Bacteria	Bacteroidales	Bacteroidetes
+OTU_1245	Gammaproteobacteria	Bacteria	Legionellales	Proteobacteria
+OTU_1247	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_1248	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_1249	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_125	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_1250				
+OTU_1251	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_1252	Gammaproteobacteria	Bacteria		Proteobacteria
+OTU_1258	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_1259	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_126	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1260				
+OTU_1262	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1263				
+OTU_1265				
+OTU_1266	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_1267	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_1268	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_1269	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_127	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_128	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_129	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_13	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_130	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_131	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_132	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_133	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_134	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_135	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_136	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_137	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_138				
+OTU_139	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_14	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_140	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_141	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_142	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_143				
+OTU_144	Betaproteobacteria	Bacteria	Methylophilales	Proteobacteria
+OTU_145	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_146	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_147	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_148	Gammaproteobacteria	Bacteria	Enterobacteriales	Proteobacteria
+OTU_149	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_15	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_150	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_151	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_152	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_153	Betaproteobacteria	Bacteria	Methylophilales	Proteobacteria
+OTU_154	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_155	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_156	Chloroplast	Bacteria		Cyanobacteria
+OTU_157	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_158	Gammaproteobacteria	Bacteria	Enterobacteriales	Proteobacteria
+OTU_159	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_16	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_160	Verrucomicrobiae	Bacteria	Verrucomicrobiales	Verrucomicrobia
+OTU_161	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_162	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_163	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_164	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_165	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_166	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_167	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_168	OM190	Bacteria	CL500-15	Planctomycetes
+OTU_169	Gammaproteobacteria	Bacteria	Thiotrichales	Proteobacteria
+OTU_17	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_170	Betaproteobacteria	Bacteria	MWH-UniP1	Proteobacteria
+OTU_171	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_172	Mb-NB09	Bacteria		OD1
+OTU_173	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_174	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_175	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_176	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_177	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_178	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_179	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_18	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_180	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_181	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_182	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_183	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_184	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_185	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_186	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_187	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_188	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_189	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_19	Nostocophycideae	Bacteria	Nostocales	Cyanobacteria
+OTU_190	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_191	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_192	Opitutae	Bacteria	Puniceicoccales	Verrucomicrobia
+OTU_193	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_194	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_195	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_196	Betaproteobacteria	Bacteria		Proteobacteria
+OTU_197				
+OTU_198				
+OTU_199	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_2	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_20	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_200	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_201				
+OTU_202	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_203	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_204	Phycisphaerae	Bacteria	Phycisphaerales	Planctomycetes
+OTU_205	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_206	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_207	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_208	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_209	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_21	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_210	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_211	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_212	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_213	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_214	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_215	Opitutae	Bacteria	[Cerasicoccales]	Verrucomicrobia
+OTU_216	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_217	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_218	Verrucomicrobiae	Bacteria	Verrucomicrobiales	Verrucomicrobia
+OTU_219	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_22	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_220	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_221	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_222	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_223	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_224	Deltaproteobacteria	Bacteria	Myxococcales	Proteobacteria
+OTU_225	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_226	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_227	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_228	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_229	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_23	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_230	Gammaproteobacteria	Bacteria	Chromatiales	Proteobacteria
+OTU_231	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_232	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_233	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_234	Alphaproteobacteria	Bacteria	Ellin329	Proteobacteria
+OTU_235	Betaproteobacteria	Bacteria	Methylophilales	Proteobacteria
+OTU_236	Gammaproteobacteria	Bacteria	Chromatiales	Proteobacteria
+OTU_237	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_238	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_239	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_24	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_240	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_241	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_242	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_243	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_244	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_245	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_246	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_247	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_248	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_249	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_25	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_250	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_251	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_252				
+OTU_253	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_254	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_255	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_256	Oscillatoriophycideae	Bacteria	Chroococcales	Cyanobacteria
+OTU_257	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_258	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_259	Betaproteobacteria	Bacteria	Rhodocyclales	Proteobacteria
+OTU_26	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_260	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_261				
+OTU_262	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_263	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_264	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_265	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_266	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_267	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_268	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_269	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_27	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_270	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_271	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_272	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_273	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_274	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_275	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_276	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_277	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_278	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_279	Betaproteobacteria	Bacteria	Gallionellales	Proteobacteria
+OTU_28	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_280	Betaproteobacteria	Bacteria	Rhodocyclales	Proteobacteria
+OTU_281	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_282	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_283	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_284	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_285				
+OTU_286	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_287	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_288	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_289	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_29	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_290	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_291	Synechococcophycideae	Bacteria	Pseudanabaenales	Cyanobacteria
+OTU_292	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_293	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_294	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_295	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_296	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_297	Betaproteobacteria	Bacteria	Rhodocyclales	Proteobacteria
+OTU_298	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_299	4C0d-2	Bacteria	MLE1-12	Cyanobacteria
+OTU_3	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_30	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_300	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_301				
+OTU_302	Deltaproteobacteria	Bacteria	GMD14H09	Proteobacteria
+OTU_303	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_304				
+OTU_305				
+OTU_306	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_307	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_308				
+OTU_309	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_31	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_310	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_311	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_312	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_313	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_314	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_315	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_316	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_317	Betaproteobacteria	Bacteria	Methylophilales	Proteobacteria
+OTU_318	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_319	Betaproteobacteria	Bacteria	Methylophilales	Proteobacteria
+OTU_32	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_320	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_321	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_322	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_323	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_324	Epsilonproteobacteria	Bacteria	Campylobacterales	Proteobacteria
+OTU_325	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_326	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_327	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_328				
+OTU_329	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_33	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_330	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_331	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_332	Solibacteres	Bacteria	Solibacterales	Acidobacteria
+OTU_333	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_334	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_335	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_336	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_337	Chloroplast	Bacteria		Cyanobacteria
+OTU_338	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_339	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_34	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_340	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_341	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_342				
+OTU_343	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_344	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_345	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_346	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_347	ZB2	Bacteria		OD1
+OTU_348	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_349	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_35	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_350	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_351	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_352	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_353	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_354	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_355				
+OTU_356	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_357	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_358	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_359	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_36				
+OTU_360	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_361	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_362	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_363	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_364	SL56	Bacteria		Chloroflexi
+OTU_365	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_366	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_367	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_368	Nostocophycideae	Bacteria	Nostocales	Cyanobacteria
+OTU_369	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_37	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_370	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_371	[Methylacidiphilae]	Bacteria	Methylacidiphilales	Verrucomicrobia
+OTU_372	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_373	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_374	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_375	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_376	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_377	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_378	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_379	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_38	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_380				
+OTU_382				
+OTU_383	ZB2	Bacteria		OD1
+OTU_384	Acidobacteriia	Bacteria	Acidobacteriales	Acidobacteria
+OTU_385	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_386	Verruco-5	Bacteria	SS1-B-03-39	Verrucomicrobia
+OTU_387	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_388				
+OTU_389	Erysipelotrichi	Bacteria	Erysipelotrichales	Firmicutes
+OTU_39	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_390	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_391	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_392				
+OTU_393	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_394	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_395	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_396	Gammaproteobacteria	Bacteria	Vibrionales	Proteobacteria
+OTU_397	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_398				
+OTU_399	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_4	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_40	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_400	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_401	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_402	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_403	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_404				
+OTU_405	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_406	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_407	Verrucomicrobiae	Bacteria	Verrucomicrobiales	Verrucomicrobia
+OTU_408	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_409	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_41	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_410	Verrucomicrobiae	Bacteria	Verrucomicrobiales	Verrucomicrobia
+OTU_411				
+OTU_412	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_413				
+OTU_414	Gammaproteobacteria	Bacteria	HTCC2188	Proteobacteria
+OTU_415	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_416	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_417	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_418	Deltaproteobacteria	Bacteria	GMD14H09	Proteobacteria
+OTU_419	Alphaproteobacteria	Bacteria	Ellin329	Proteobacteria
+OTU_42	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_420	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_421	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_422	OM190	Bacteria	CL500-15	Planctomycetes
+OTU_423	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_424	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_425	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_426	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_427				
+OTU_428	TM7-1	Bacteria		TM7
+OTU_429	Holophagae	Bacteria	Holophagales	Acidobacteria
+OTU_43	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_430	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_431	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_432	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_433				
+OTU_434	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_435	Betaproteobacteria	Bacteria	Methylophilales	Proteobacteria
+OTU_436	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_437				
+OTU_438	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_439	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_44	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_440				
+OTU_441	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_442	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_443	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_444	Elusimicrobia	Bacteria	Elusimicrobiales	Elusimicrobia
+OTU_445	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_446	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_448	Gammaproteobacteria	Bacteria	Aeromonadales	Proteobacteria
+OTU_449	Betaproteobacteria	Bacteria	Rhodocyclales	Proteobacteria
+OTU_45	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_450				
+OTU_451	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_452	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_453	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_454	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_455				
+OTU_456	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_457				
+OTU_458	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_459	Betaproteobacteria	Bacteria	Methylophilales	Proteobacteria
+OTU_46	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_460	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_461	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_462	Opitutae	Bacteria	Puniceicoccales	Verrucomicrobia
+OTU_463	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_464	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_465	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_466	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_467	Acidobacteriia	Bacteria	Acidobacteriales	Acidobacteria
+OTU_468	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_469	Nostocophycideae	Bacteria	Nostocales	Cyanobacteria
+OTU_47	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_470	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_471	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_472	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_473				
+OTU_474	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_475	Chloroplast	Bacteria		Cyanobacteria
+OTU_476	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_477	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_479				
+OTU_48	Gammaproteobacteria	Bacteria	Methylococcales	Proteobacteria
+OTU_480				
+OTU_481	Gammaproteobacteria	Bacteria	HTCC2188	Proteobacteria
+OTU_482	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_483	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_484				
+OTU_485	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_486	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_487	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_488	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_489	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_49	Nostocophycideae	Bacteria	Nostocales	Cyanobacteria
+OTU_490				
+OTU_491	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_492	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_493	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_494	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_495	Deltaproteobacteria	Bacteria	Myxococcales	Proteobacteria
+OTU_496	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_497	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_498	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_499	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_5	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_50	Chloroplast	Bacteria	Cryptophyta	Cyanobacteria
+OTU_500	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_501	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_502	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_503	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_504	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_505	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_506	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_507	TM7-3	Bacteria		TM7
+OTU_508				
+OTU_509	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_51	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_510				
+OTU_511	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_512	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_513				
+OTU_514	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_515	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_516	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_517	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_518	Dehalococcoidetes	Bacteria	Dehalococcoidales	Chloroflexi
+OTU_519	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_52				
+OTU_520				
+OTU_521	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_522	Opitutae	Bacteria	Opitutales	Verrucomicrobia
+OTU_523	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_524	4C0d-2	Bacteria	MLE1-12	Cyanobacteria
+OTU_525				
+OTU_526				
+OTU_527	BD1-5	Bacteria		GN02
+OTU_528	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_529	Opitutae	Bacteria	Opitutales	Verrucomicrobia
+OTU_53	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_530	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_531	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_532	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_533	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_534	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_535	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_536	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_537	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_538	Gammaproteobacteria	Bacteria	Chromatiales	Proteobacteria
+OTU_539	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_54	SL56	Bacteria		Chloroflexi
+OTU_540	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_541	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_542	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_543	SC3	Bacteria		TM7
+OTU_544	Phycisphaerae	Bacteria	Phycisphaerales	Planctomycetes
+OTU_545	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_546	Phycisphaerae	Bacteria	Phycisphaerales	Planctomycetes
+OTU_547	Alphaproteobacteria	Bacteria	Ellin329	Proteobacteria
+OTU_548				
+OTU_549	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_55	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_550	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_551				
+OTU_552	Holophagae	Bacteria	Holophagales	Acidobacteria
+OTU_553	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_554	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_555	Alphaproteobacteria	Bacteria	Kiloniellales	Proteobacteria
+OTU_556	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_557				
+OTU_558				
+OTU_559	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_56	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_560	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_562	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_563	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_564	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_565				
+OTU_566	Elusimicrobia	Bacteria	Elusimicrobiales	Elusimicrobia
+OTU_567	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_568	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_569	Betaproteobacteria	Bacteria		Proteobacteria
+OTU_57	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_570	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_571	Solibacteres	Bacteria	Solibacterales	Acidobacteria
+OTU_572	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_573	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_574	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_575	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_576	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_577	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_578	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_579				
+OTU_58	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_580	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_581	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_582	Acidobacteriia	Bacteria	Acidobacteriales	Acidobacteria
+OTU_583	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_584	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_585	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_586	TM7-3	Bacteria	EW055	TM7
+OTU_587	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_588	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_589	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_59	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_590	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_591	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_592	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_593	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_594	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_595	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_596		Bacteria		WPS-2
+OTU_597	4C0d-2	Bacteria	MLE1-12	Cyanobacteria
+OTU_598				
+OTU_599	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_6	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_60	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_600	Chloroplast	Bacteria		Cyanobacteria
+OTU_601				
+OTU_602	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_603	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_604	Opitutae	Bacteria	Opitutales	Verrucomicrobia
+OTU_606	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_607	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_608	Betaproteobacteria	Bacteria	Procabacteriales	Proteobacteria
+OTU_609	Chlamydiia	Bacteria	Chlamydiales	Chlamydiae
+OTU_61	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_610	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_611	Holophagae	Bacteria	Holophagales	Acidobacteria
+OTU_612	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_613	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_614	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_615	Oscillatoriophycideae	Bacteria	Chroococcales	Cyanobacteria
+OTU_616	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_617	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_618	Chloroplast	Bacteria	Cryptophyta	Cyanobacteria
+OTU_619	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_62	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_620	Deltaproteobacteria	Bacteria	Bdellovibrionales	Proteobacteria
+OTU_621	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_622	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_623	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_624	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_625	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_626	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_627	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_628				
+OTU_629	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_63	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_630	Betaproteobacteria	Bacteria	Procabacteriales	Proteobacteria
+OTU_631	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_632	Oscillatoriophycideae	Bacteria	Chroococcales	Cyanobacteria
+OTU_633	Epsilonproteobacteria	Bacteria	Campylobacterales	Proteobacteria
+OTU_634	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_635	Bacteroidia	Bacteria	Bacteroidales	Bacteroidetes
+OTU_636	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_637	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_638	Opitutae	Bacteria	Puniceicoccales	Verrucomicrobia
+OTU_639	Betaproteobacteria	Bacteria	Rhodocyclales	Proteobacteria
+OTU_64	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_640	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_641	Deltaproteobacteria	Bacteria	Spirobacillales	Proteobacteria
+OTU_642				
+OTU_643	[Rhodothermi]	Bacteria	[Rhodothermales]	Bacteroidetes
+OTU_645	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_646	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_647	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_648	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_649	Chlamydiia	Bacteria	Chlamydiales	Chlamydiae
+OTU_65	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_651	Synechococcophycideae	Bacteria	Pseudanabaenales	Cyanobacteria
+OTU_652	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_653	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_654	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_655				
+OTU_657	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_658	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_659	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_66	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_660	SC3	Bacteria		TM7
+OTU_661				
+OTU_662				
+OTU_663				
+OTU_664	Gammaproteobacteria	Bacteria	Enterobacteriales	Proteobacteria
+OTU_666	Nostocophycideae	Bacteria	Nostocales	Cyanobacteria
+OTU_667				
+OTU_669	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_67	Synechococcophycideae	Bacteria	Pseudanabaenales	Cyanobacteria
+OTU_670	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_671	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_672	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_673	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_674	Holophagae	Bacteria	Holophagales	Acidobacteria
+OTU_675	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_676	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_677	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_678	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_679	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_68	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_680				
+OTU_681	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_682	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_684	Chloroplast	Bacteria	Euglenozoa	Cyanobacteria
+OTU_685	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_686	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_687	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_688	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_69	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_690	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_691	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_692	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_693	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_694				
+OTU_695	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_696	Thermoleophilia	Bacteria	Gaiellales	Actinobacteria
+OTU_697	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_698	Verrucomicrobiae	Bacteria	Verrucomicrobiales	Verrucomicrobia
+OTU_699	Clostridia	Bacteria	Clostridiales	Firmicutes
+OTU_7	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_70	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_700	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_702	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_703	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_704	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_705	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_707	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_708	Clostridia	Bacteria	Clostridiales	Firmicutes
+OTU_709	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_71	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_710	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_711	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_714	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_715	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_717	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_718	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_719				
+OTU_72	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_720	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_721	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_722				
+OTU_723				
+OTU_724	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_725	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_726	Planctomycetia	Bacteria	Gemmatales	Planctomycetes
+OTU_727				
+OTU_729	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_73	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_730	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_731	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_732	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_733	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_734	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_735	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_736	Gammaproteobacteria	Bacteria	Thiotrichales	Proteobacteria
+OTU_737	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_738				
+OTU_739	OM190	Bacteria	CL500-15	Planctomycetes
+OTU_74	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_742	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_743	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_744	SC3	Bacteria		TM7
+OTU_746				
+OTU_747	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_748				
+OTU_749	SL56	Bacteria		Chloroflexi
+OTU_75	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_751				
+OTU_753	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_754	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_755	Chlamydiia	Bacteria	Chlamydiales	Chlamydiae
+OTU_756	Fusobacteriia	Bacteria	Fusobacteriales	Fusobacteria
+OTU_757	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_759	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_76	Synechococcophycideae	Bacteria	Synechococcales	Cyanobacteria
+OTU_760	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_761	4C0d-2	Bacteria	MLE1-12	Cyanobacteria
+OTU_762	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_764	Opitutae	Bacteria	Opitutales	Verrucomicrobia
+OTU_767	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_768	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_769	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_77	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_770	SC72	Bacteria	WCHB1-15	WS6
+OTU_771	Chlamydiia	Bacteria	Chlamydiales	Chlamydiae
+OTU_772	Verrucomicrobiae	Bacteria	Verrucomicrobiales	Verrucomicrobia
+OTU_773	Solibacteres	Bacteria	Solibacterales	Acidobacteria
+OTU_774	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_775				
+OTU_776	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_777	Nostocophycideae	Bacteria	Nostocales	Cyanobacteria
+OTU_778	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_779	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_78	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_780	Planctomycetia	Bacteria	Planctomycetales	Planctomycetes
+OTU_781				
+OTU_782	Phycisphaerae	Bacteria	Phycisphaerales	Planctomycetes
+OTU_783	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_784				
+OTU_785	Betaproteobacteria	Bacteria	Rhodocyclales	Proteobacteria
+OTU_788	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_789	Planctomycetia	Bacteria	Planctomycetales	Planctomycetes
+OTU_79	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_790	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_791	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_792	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_793	Holophagae	Bacteria	Holophagales	Acidobacteria
+OTU_794	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_796	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_797	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_798	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_8	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_80	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_800	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_801	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_802	Bacteroidia	Bacteria	Bacteroidales	Bacteroidetes
+OTU_803	DA052	Bacteria	Ellin6513	Acidobacteria
+OTU_805	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_806	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_807	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_808				
+OTU_809	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_81	Betaproteobacteria	Bacteria	MWH-UniP1	Proteobacteria
+OTU_811	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_813	Acidobacteriia	Bacteria	Acidobacteriales	Acidobacteria
+OTU_814	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_816	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_817	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_819	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_82	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_820	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_821	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_822	Alphaproteobacteria	Bacteria	Caulobacterales	Proteobacteria
+OTU_824	[Rhodothermi]	Bacteria	[Rhodothermales]	Bacteroidetes
+OTU_825	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_826	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_827	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_828	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_829	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_83	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_830	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_831	Betaproteobacteria	Bacteria		Proteobacteria
+OTU_833	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_835	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_836	Phycisphaerae	Bacteria	Phycisphaerales	Planctomycetes
+OTU_837	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_838	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_839	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_84	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_840	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_842	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_844	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_845	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_847	Gammaproteobacteria	Bacteria	Xanthomonadales	Proteobacteria
+OTU_848	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_849	Bacteroidia	Bacteria	Bacteroidales	Bacteroidetes
+OTU_85	Alphaproteobacteria	Bacteria		Proteobacteria
+OTU_850	Alphaproteobacteria	Bacteria	Kiloniellales	Proteobacteria
+OTU_853				
+OTU_854	Chloroplast	Bacteria	Chlorophyta	Cyanobacteria
+OTU_855	Betaproteobacteria	Bacteria	Procabacteriales	Proteobacteria
+OTU_856				
+OTU_857	Solibacteres	Bacteria	Solibacterales	Acidobacteria
+OTU_858	Anaerolineae	Bacteria	Caldilineales	Chloroflexi
+OTU_859	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_86	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_860				
+OTU_861				
+OTU_862	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_865	Gammaproteobacteria	Bacteria	Legionellales	Proteobacteria
+OTU_866	Deltaproteobacteria	Bacteria	GMD14H09	Proteobacteria
+OTU_867	TA18	Bacteria	PHOS-HD29	Proteobacteria
+OTU_868	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_87	Betaproteobacteria	Bacteria		Proteobacteria
+OTU_870	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_871	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_872	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_874	Betaproteobacteria	Bacteria	Procabacteriales	Proteobacteria
+OTU_875	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_876	Acidobacteriia	Bacteria	Acidobacteriales	Acidobacteria
+OTU_877	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_878	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_879	[Pedosphaerae]	Bacteria	[Pedosphaerales]	Verrucomicrobia
+OTU_88	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_880	Betaproteobacteria	Bacteria		Proteobacteria
+OTU_881	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_883	Gammaproteobacteria	Bacteria	Pseudomonadales	Proteobacteria
+OTU_884				
+OTU_885	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_887	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_889	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_89	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_890	Opitutae	Bacteria	Opitutales	Verrucomicrobia
+OTU_891	Deltaproteobacteria	Bacteria	MIZ46	Proteobacteria
+OTU_892	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_893	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_897				
+OTU_898	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_899	Cytophagia	Bacteria	Cytophagales	Bacteroidetes
+OTU_9	[Saprospirae]	Bacteria	[Saprospirales]	Bacteroidetes
+OTU_90	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_900				
+OTU_902	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_903	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_905	Bacteroidia	Bacteria	Bacteroidales	Bacteroidetes
+OTU_906	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_907	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_908	Alphaproteobacteria	Bacteria	Rickettsiales	Proteobacteria
+OTU_909	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_91	Planctomycetia	Bacteria	Pirellulales	Planctomycetes
+OTU_910	[Rhodothermi]	Bacteria	[Rhodothermales]	Bacteroidetes
+OTU_911	[Pedosphaerae]	Bacteria	[Pedosphaerales]	Verrucomicrobia
+OTU_913				
+OTU_914	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_915	Opitutae	Bacteria	Puniceicoccales	Verrucomicrobia
+OTU_92	Chloroflexi	Bacteria	[Roseiflexales]	Chloroflexi
+OTU_920	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_921	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_922	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_923	Betaproteobacteria	Bacteria	Procabacteriales	Proteobacteria
+OTU_924	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_925	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_926	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_93	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_933				
+OTU_937	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_94	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_940	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_941	Verrucomicrobiae	Bacteria	Verrucomicrobiales	Verrucomicrobia
+OTU_942	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_943				
+OTU_945	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_946	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_947	[Pedosphaerae]	Bacteria	[Pedosphaerales]	Verrucomicrobia
+OTU_948	Betaproteobacteria	Bacteria	Burkholderiales	Proteobacteria
+OTU_949	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_95	Actinobacteria	Bacteria	Actinomycetales	Actinobacteria
+OTU_951	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_953				
+OTU_955	Bacteroidia	Bacteria	Bacteroidales	Bacteroidetes
+OTU_956	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_957				
+OTU_958	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_96	Alphaproteobacteria	Bacteria	Rhizobiales	Proteobacteria
+OTU_961	Chloroplast	Bacteria	Stramenopiles	Cyanobacteria
+OTU_962	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_963	Bacteroidia	Bacteria	Bacteroidales	Bacteroidetes
+OTU_964	Sphingobacteriia	Bacteria	Sphingobacteriales	Bacteroidetes
+OTU_965	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_966	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_968	Gammaproteobacteria	Bacteria	Oceanospirillales	Proteobacteria
+OTU_969				
+OTU_97	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_970	Alphaproteobacteria	Bacteria	BD7-3	Proteobacteria
+OTU_973	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_976	Acidobacteriia	Bacteria	Acidobacteriales	Acidobacteria
+OTU_98	Alphaproteobacteria	Bacteria	Sphingomonadales	Proteobacteria
+OTU_982	Gammaproteobacteria	Bacteria	Alteromonadales	Proteobacteria
+OTU_983	Bacilli	Bacteria	Lactobacillales	Firmicutes
+OTU_984				
+OTU_986				
+OTU_987	Deltaproteobacteria	Bacteria	Spirobacillales	Proteobacteria
+OTU_988	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_989	Clostridia	Bacteria	Clostridiales	Firmicutes
+OTU_99	Alphaproteobacteria	Bacteria	Rhodospirillales	Proteobacteria
+OTU_990	Chloroplast	Bacteria	Haptophyceae	Cyanobacteria
+OTU_991	Alphaproteobacteria	Bacteria	Ellin329	Proteobacteria
+OTU_993	Alphaproteobacteria	Bacteria	Rhodobacterales	Proteobacteria
+OTU_994	Acidimicrobiia	Bacteria	Acidimicrobiales	Actinobacteria
+OTU_995				
+OTU_996	Flavobacteriia	Bacteria	Flavobacteriales	Bacteroidetes
+OTU_998	[Spartobacteria]	Bacteria	[Chthoniobacterales]	Verrucomicrobia
+OTU_999	Acidobacteriia	Bacteria	Acidobacteriales	Acidobacteria
